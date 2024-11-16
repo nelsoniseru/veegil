@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+.env
+
+changelog.yaml
+TODO.yaml
+**/*.d.ts
+**/*OJSDPP_details.csv
+**/*my*Seeder.js
+ABOUT.yaml
