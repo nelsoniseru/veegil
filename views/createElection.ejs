@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="/css/output.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    href="https://cdn.jsdelivr.net/npm/tom-select/dist/css/tom-select.css"
+    rel="stylesheet"
+  /></head>
+  <body>
+
+    <%- include('../partials/navbar') %>
+
+
+  <div class="min-h-screen p-6 bg-gray-100 flex items-center justify-center">
+    
+    <div class="container max-w-screen-lg mx-auto">
+      <form method="post" action="/create-election">
+        <h2 class="font-semibold text-xl text-gray-600">Create Election</h2>
+  
+        <div class="bg-white rounded shadow-lg p-4 px-4 md:p-8 mb-6">
+          <div class="grid gap-4 gap-y-2 text-sm grid-cols-1 lg:grid-cols-3">
+            <div class="text-gray-600">
+            </div>
+  
+            <div class="lg:col-span-2">
+              <div class="grid gap-4 gap-y-2 text-sm grid-cols-1 md:grid-cols-5">
+                <div class="md:col-span-5">
+                  <label for="fname">Name</label>
+                  <input type="text" name="name" id="full_name" class="h-10 border mt-1 rounded px-4 w-full bg-gray-50" value="" />
+                </div>
+  
+                <div class="md:col-span-5">
+                  <label for="email">Election Type</label>
+                  <div class="">
+                    <select
+                      name="type"
+                      class="h-10 border mt-1 rounded px-4 w-full bg-gray-50"
+                    >
+                      <option value="COUNCIL">council</option>
+                      <option value="CHAIRMANSHIP">chairmanship</option>
+                      <option value="PRESIDENTIAL">presidential</option>
+                      <option value="REPRESENTATIVE">representative</option>
+                      <option value="SENATORIAL">senatorial</option>
+                      <option value="GUBERNATORIAL">gubernatorial</option>
+                   
+                    </select>
+                  </div>             
+                 </div>
+  
+  
+                <div class="md:col-span-5">
+                  <label for="country"></label>
+                  <div class="w-full">
+                    <label class="inline-block text-sm text-gray-600" for="Multiselect"
+                      >Select multiple organisations</label
+                    >
+                    <div class="relative flex w-full" >
+                      <select
+                        id="select-role"
+                        name="orgs[]"
+                        multiple
+                        placeholder="Select org..."
+                        autocomplete="off"
+                        class="block w-full rounded-sm cursor-pointer focus:outline-none"
+                        multiple
+                      >
+                      <%org.forEach(e=>{%>
+                        <option value="<%=e._id%>"><%=e.name%></option>
+                        <%})%>                      
+                      </select>
+                    </div>
+                  </div>
+                </div>
+                <div class="md:col-span-5">
+                  <label for="country"></label>
+                  <div class="w-full">
+                    <label class="inline-block text-sm text-gray-600" for="Multiselect"
+                      >Select multiple candidates</label
+                    >
+                    <div class="relative flex w-full" >
+                      <select
+                        id="select-candidate"
+                        name="candidates[]"
+                        multiple
+                        placeholder="Select candidates..."
+                        autocomplete="off"
+                        class="block w-full rounded-sm cursor-pointer focus:outline-none"
+                        multiple
+                      >
+                      <%candidate.forEach(e=>{%>
+                        <option value="<%=e._id%>"><%=e.full_name%></option>
+                        <%})%>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+  
+              
+  
+               
+  
+  
+            
+        
+                <div class="md:col-span-5 text-right">
+                  <div class="inline-flex items-end">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Submit</button>
+                  </div>
+                </div>
+  
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+  
+   
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/tom-select/dist/js/tom-select.complete.min.js"></script>
+    <script>
+      new TomSelect('#select-role', {
+        maxItems: 20,
+      });
+      new TomSelect('#select-candidate', {
+        maxItems: 20,
+      });
+    </script>
+  </body>
+
+</html>

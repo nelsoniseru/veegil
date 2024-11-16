@@ -1,0 +1,7931 @@
+{
+"lga_tbl":[
+ {
+  "lga_id": 1,
+  "state_id": 1,
+  "senatorial_district_id": 3,
+  "representative_district_id": 7,
+  "lga_name": "Aba North"
+ },
+ {
+  "lga_id": 2,
+  "state_id": 1,
+  "senatorial_district_id": 3,
+  "representative_district_id": 7,
+  "lga_name": "Aba South"
+ },
+ {
+  "lga_id": 3,
+  "state_id": 1,
+  "senatorial_district_id": 4,
+  "representative_district_id": 6,
+  "lga_name": "Arochukwu"
+ },
+ {
+  "lga_id": 4,
+  "state_id": 1,
+  "senatorial_district_id": 4,
+  "representative_district_id": 4,
+  "lga_name": "Bende"
+ },
+ {
+  "lga_id": 5,
+  "state_id": 1,
+  "senatorial_district_id": 2,
+  "representative_district_id": 3,
+  "lga_name": "Ikwuano"
+ },
+ {
+  "lga_id": 6,
+  "state_id": 1,
+  "senatorial_district_id": 2,
+  "representative_district_id": 9,
+  "lga_name": "Isiala Ngwa North"
+ },
+ {
+  "lga_id": 7,
+  "state_id": 1,
+  "senatorial_district_id": 2,
+  "representative_district_id": 9,
+  "lga_name": "Isiala Ngwa South"
+ },
+ {
+  "lga_id": 8,
+  "state_id": 1,
+  "senatorial_district_id": 4,
+  "representative_district_id": 5,
+  "lga_name": "Isuikwuato"
+ },
+ {
+  "lga_id": 9,
+  "state_id": 1,
+  "senatorial_district_id": 3,
+  "representative_district_id": 10,
+  "lga_name": "Obingwa"
+ },
+ {
+  "lga_id": 10,
+  "state_id": 1,
+  "senatorial_district_id": 4,
+  "representative_district_id": 6,
+  "lga_name": "Ohafia"
+ },
+ {
+  "lga_id": 11,
+  "state_id": 1,
+  "senatorial_district_id": 3,
+  "representative_district_id": 10,
+  "lga_name": "Osisioma"
+ },
+ {
+  "lga_id": 12,
+  "state_id": 1,
+  "senatorial_district_id": 3,
+  "representative_district_id": 10,
+  "lga_name": "Ugwunagbo"
+ },
+ {
+  "lga_id": 13,
+  "state_id": 1,
+  "senatorial_district_id": 3,
+  "representative_district_id": 8,
+  "lga_name": "Ukwa East"
+ },
+ {
+  "lga_id": 14,
+  "state_id": 1,
+  "senatorial_district_id": 3,
+  "representative_district_id": 8,
+  "lga_name": "Ukwa West"
+ },
+ {
+  "lga_id": 15,
+  "state_id": 1,
+  "senatorial_district_id": 2,
+  "representative_district_id": 3,
+  "lga_name": "Umuahia North"
+ },
+ {
+  "lga_id": 16,
+  "state_id": 1,
+  "senatorial_district_id": 2,
+  "representative_district_id": 3,
+  "lga_name": "Umuahia South"
+ },
+ {
+  "lga_id": 17,
+  "state_id": 1,
+  "senatorial_district_id": 4,
+  "representative_district_id": 5,
+  "lga_name": "Umunneochi"
+ },
+ {
+  "lga_id": 18,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 17,
+  "lga_name": "Demsa"
+ },
+ {
+  "lga_id": 19,
+  "state_id": 2,
+  "senatorial_district_id": 6,
+  "representative_district_id": 15,
+  "lga_name": "Fufore"
+ },
+ {
+  "lga_id": 20,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 11,
+  "lga_name": "Ganye"
+ },
+ {
+  "lga_id": 21,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 12,
+  "lga_name": "Guyuk"
+ },
+ {
+  "lga_id": 22,
+  "state_id": 2,
+  "senatorial_district_id": 6,
+  "representative_district_id": 13,
+  "lga_name": "Gombi"
+ },
+ {
+  "lga_id": 23,
+  "state_id": 2,
+  "senatorial_district_id": 6,
+  "representative_district_id": 18,
+  "lga_name": "Girei"
+ },
+ {
+  "lga_id": 24,
+  "state_id": 2,
+  "senatorial_district_id": 6,
+  "representative_district_id": 13,
+  "lga_name": "Hong"
+ },
+ {
+  "lga_id": 25,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 11,
+  "lga_name": "Jada"
+ },
+ {
+  "lga_id": 26,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 17,
+  "lga_name": "Lamurde"
+ },
+ {
+  "lga_id": 27,
+  "state_id": 2,
+  "senatorial_district_id": 5,
+  "representative_district_id": 16,
+  "lga_name": "Madagali"
+ },
+ {
+  "lga_id": 28,
+  "state_id": 2,
+  "senatorial_district_id": 5,
+  "representative_district_id": 14,
+  "lga_name": "Maiha"
+ },
+ {
+  "lga_id": 29,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 11,
+  "lga_name": "Mayo Belwa"
+ },
+ {
+  "lga_id": 30,
+  "state_id": 2,
+  "senatorial_district_id": 5,
+  "representative_district_id": 16,
+  "lga_name": "Michika"
+ },
+ {
+  "lga_id": 31,
+  "state_id": 2,
+  "senatorial_district_id": 5,
+  "representative_district_id": 14,
+  "lga_name": "Mubi North"
+ },
+ {
+  "lga_id": 32,
+  "state_id": 2,
+  "senatorial_district_id": 5,
+  "representative_district_id": 14,
+  "lga_name": "Mubi South"
+ },
+ {
+  "lga_id": 33,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 17,
+  "lga_name": "Numan"
+ },
+ {
+  "lga_id": 34,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 12,
+  "lga_name": "Shelleng"
+ },
+ {
+  "lga_id": 35,
+  "state_id": 2,
+  "senatorial_district_id": 6,
+  "representative_district_id": 15,
+  "lga_name": "Song"
+ },
+ {
+  "lga_id": 36,
+  "state_id": 2,
+  "senatorial_district_id": 7,
+  "representative_district_id": 11,
+  "lga_name": "Toungo"
+ },
+ {
+  "lga_id": 37,
+  "state_id": 2,
+  "senatorial_district_id": 6,
+  "representative_district_id": 18,
+  "lga_name": "Yola North"
+ },
+ {
+  "lga_id": 38,
+  "state_id": 2,
+  "senatorial_district_id": 6,
+  "representative_district_id": 18,
+  "lga_name": "Yola South"
+ },
+ {
+  "lga_id": 39,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 24,
+  "lga_name": "Abak"
+ },
+ {
+  "lga_id": 40,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 27,
+  "lga_name": "Eastern Obolo"
+ },
+ {
+  "lga_id": 41,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 22,
+  "lga_name": "Eket"
+ },
+ {
+  "lga_id": 42,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 22,
+  "lga_name": "Esit Eket"
+ },
+ {
+  "lga_id": 43,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 23,
+  "lga_name": "Essien Udim"
+ },
+ {
+  "lga_id": 44,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 24,
+  "lga_name": "Etim Ekpo"
+ },
+ {
+  "lga_id": 45,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 20,
+  "lga_name": "Etinan"
+ },
+ {
+  "lga_id": 46,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 22,
+  "lga_name": "Ibeno"
+ },
+ {
+  "lga_id": 47,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 28,
+  "lga_name": "Ibeskip Asutan"
+ },
+ {
+  "lga_id": 48,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 21,
+  "lga_name": "Ibiono Ibom"
+ },
+ {
+  "lga_id": 49,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 24,
+  "lga_name": "Ika"
+ },
+ {
+  "lga_id": 50,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 25,
+  "lga_name": "Ikono"
+ },
+ {
+  "lga_id": 51,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 27,
+  "lga_name": "Ikot Abasi"
+ },
+ {
+  "lga_id": 52,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 23,
+  "lga_name": "Ikot Ekpene"
+ },
+ {
+  "lga_id": 53,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 25,
+  "lga_name": "Ini"
+ },
+ {
+  "lga_id": 54,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 21,
+  "lga_name": "Itu"
+ },
+ {
+  "lga_id": 55,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 26,
+  "lga_name": "Mbo"
+ },
+ {
+  "lga_id": 56,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 27,
+  "lga_name": "Mkpat Enin"
+ },
+ {
+  "lga_id": 57,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 28,
+  "lga_name": "Nsit Ata"
+ },
+ {
+  "lga_id": 58,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 20,
+  "lga_name": "Nsit Ibom"
+ },
+ {
+  "lga_id": 59,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 20,
+  "lga_name": "Nsit Ubium"
+ },
+ {
+  "lga_id": 60,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 23,
+  "lga_name": "Obot Akara"
+ },
+ {
+  "lga_id": 61,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 26,
+  "lga_name": "Okobo"
+ },
+ {
+  "lga_id": 62,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 22,
+  "lga_name": "Onna"
+ },
+ {
+  "lga_id": 63,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 26,
+  "lga_name": "Oron"
+ },
+ {
+  "lga_id": 64,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 19,
+  "lga_name": "Orukanam"
+ },
+ {
+  "lga_id": 65,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 26,
+  "lga_name": "Udung-Uko"
+ },
+ {
+  "lga_id": 66,
+  "state_id": 3,
+  "senatorial_district_id": 9,
+  "representative_district_id": 19,
+  "lga_name": "Ukanafun"
+ },
+ {
+  "lga_id": 67,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 28,
+  "lga_name": "Uruan"
+ },
+ {
+  "lga_id": 68,
+  "state_id": 3,
+  "senatorial_district_id": 10,
+  "representative_district_id": 26,
+  "lga_name": "UrueOffong\/Oruko"
+ },
+ {
+  "lga_id": 69,
+  "state_id": 3,
+  "senatorial_district_id": 8,
+  "representative_district_id": 28,
+  "lga_name": "Uyo"
+ },
+ {
+  "lga_id": 70,
+  "state_id": 4,
+  "senatorial_district_id": 12,
+  "representative_district_id": 31,
+  "lga_name": "Aguta"
+ },
+ {
+  "lga_id": 71,
+  "state_id": 4,
+  "senatorial_district_id": 13,
+  "representative_district_id": 29,
+  "lga_name": "Anambra East"
+ },
+ {
+  "lga_id": 72,
+  "state_id": 4,
+  "senatorial_district_id": 13,
+  "representative_district_id": 29,
+  "lga_name": "Anambra West"
+ },
+ {
+  "lga_id": 73,
+  "state_id": 4,
+  "senatorial_district_id": 11,
+  "representative_district_id": 30,
+  "lga_name": "Anaocha"
+ },
+ {
+  "lga_id": 74,
+  "state_id": 4,
+  "senatorial_district_id": 11,
+  "representative_district_id": 34,
+  "lga_name": "Awka North"
+ },
+ {
+  "lga_id": 75,
+  "state_id": 4,
+  "senatorial_district_id": 11,
+  "representative_district_id": 34,
+  "lga_name": "Awka South"
+ },
+ {
+  "lga_id": 76,
+  "state_id": 4,
+  "senatorial_district_id": 13,
+  "representative_district_id": 37,
+  "lga_name": "Ayamelum"
+ },
+ {
+  "lga_id": 77,
+  "state_id": 4,
+  "senatorial_district_id": 11,
+  "representative_district_id": 30,
+  "lga_name": "Dunukofia"
+ },
+ {
+  "lga_id": 78,
+  "state_id": 4,
+  "senatorial_district_id": 12,
+  "representative_district_id": 32,
+  "lga_name": "Ekwusigo"
+ },
+ {
+  "lga_id": 79,
+  "state_id": 4,
+  "senatorial_district_id": 11,
+  "representative_district_id": 38,
+  "lga_name": "Idemili North"
+ },
+ {
+  "lga_id": 80,
+  "state_id": 4,
+  "senatorial_district_id": 11,
+  "representative_district_id": 38,
+  "lga_name": "Idemili South"
+ },
+ {
+  "lga_id": 81,
+  "state_id": 4,
+  "senatorial_district_id": 12,
+  "representative_district_id": 36,
+  "lga_name": "Ihiala"
+ },
+ {
+  "lga_id": 82,
+  "state_id": 4,
+  "senatorial_district_id": 11,
+  "representative_district_id": 30,
+  "lga_name": "Njikoka"
+ },
+ {
+  "lga_id": 83,
+  "state_id": 4,
+  "senatorial_district_id": 12,
+  "representative_district_id": 32,
+  "lga_name": "Nnewi North"
+ },
+ {
+  "lga_id": 84,
+  "state_id": 4,
+  "senatorial_district_id": 12,
+  "representative_district_id": 32,
+  "lga_name": "Nnewi South"
+ },
+ {
+  "lga_id": 85,
+  "state_id": 4,
+  "senatorial_district_id": 13,
+  "representative_district_id": 39,
+  "lga_name": "Ogbaru"
+ },
+ {
+  "lga_id": 86,
+  "state_id": 4,
+  "senatorial_district_id": 13,
+  "representative_district_id": 33,
+  "lga_name": "Onitsha North"
+ },
+ {
+  "lga_id": 87,
+  "state_id": 4,
+  "senatorial_district_id": 13,
+  "representative_district_id": 33,
+  "lga_name": "Onitsha South"
+ },
+ {
+  "lga_id": 88,
+  "state_id": 4,
+  "senatorial_district_id": 12,
+  "representative_district_id": 35,
+  "lga_name": "Orumba North"
+ },
+ {
+  "lga_id": 89,
+  "state_id": 4,
+  "senatorial_district_id": 12,
+  "representative_district_id": 35,
+  "lga_name": "Orumba South"
+ },
+ {
+  "lga_id": 90,
+  "state_id": 4,
+  "senatorial_district_id": 13,
+  "representative_district_id": 37,
+  "lga_name": "Oyi"
+ },
+ {
+  "lga_id": 91,
+  "state_id": 5,
+  "senatorial_district_id": 14,
+  "representative_district_id": 513,
+  "lga_name": "Alkaleri"
+ },
+ {
+  "lga_id": 92,
+  "state_id": 5,
+  "senatorial_district_id": 14,
+  "representative_district_id": 46,
+  "lga_name": "Bauchi"
+ },
+ {
+  "lga_id": 93,
+  "state_id": 5,
+  "senatorial_district_id": 14,
+  "representative_district_id": 43,
+  "lga_name": "Bogoro"
+ },
+ {
+  "lga_id": 94,
+  "state_id": 5,
+  "senatorial_district_id": 15,
+  "representative_district_id": 40,
+  "lga_name": "Dambam"
+ },
+ {
+  "lga_id": 95,
+  "state_id": 5,
+  "senatorial_district_id": 15,
+  "representative_district_id": 47,
+  "lga_name": "Darazo"
+ },
+ {
+  "lga_id": 96,
+  "state_id": 5,
+  "senatorial_district_id": 14,
+  "representative_district_id": 43,
+  "lga_name": "Dass"
+ },
+ {
+  "lga_id": 97,
+  "state_id": 5,
+  "senatorial_district_id": 16,
+  "representative_district_id": 44,
+  "lga_name": "Gamawa"
+ },
+ {
+  "lga_id": 98,
+  "state_id": 5,
+  "senatorial_district_id": 15,
+  "representative_district_id": 47,
+  "lga_name": "Gunjuwa"
+ },
+ {
+  "lga_id": 99,
+  "state_id": 5,
+  "senatorial_district_id": 16,
+  "representative_district_id": 49,
+  "lga_name": "Giade"
+ },
+ {
+  "lga_id": 100,
+  "state_id": 5,
+  "senatorial_district_id": 16,
+  "representative_district_id": 45,
+  "lga_name": "Itas-Gadau"
+ },
+ {
+  "lga_id": 101,
+  "state_id": 5,
+  "senatorial_district_id": 16,
+  "representative_district_id": 45,
+  "lga_name": "Jama'are"
+ },
+ {
+  "lga_id": 102,
+  "state_id": 5,
+  "senatorial_district_id": 16,
+  "representative_district_id": 42,
+  "lga_name": "Katagum"
+ },
+ {
+  "lga_id": 103,
+  "state_id": 5,
+  "senatorial_district_id": 14,
+  "representative_district_id": 513,
+  "lga_name": "Kirfi"
+ },
+ {
+  "lga_id": 104,
+  "state_id": 5,
+  "senatorial_district_id": 15,
+  "representative_district_id": 40,
+  "lga_name": "Misau"
+ },
+ {
+  "lga_id": 105,
+  "state_id": 5,
+  "senatorial_district_id": 15,
+  "representative_district_id": 48,
+  "lga_name": "Ningi"
+ },
+ {
+  "lga_id": 106,
+  "state_id": 5,
+  "senatorial_district_id": 16,
+  "representative_district_id": 49,
+  "lga_name": "Shira"
+ },
+ {
+  "lga_id": 107,
+  "state_id": 5,
+  "senatorial_district_id": 14,
+  "representative_district_id": 43,
+  "lga_name": "Tafawa Balewa"
+ },
+ {
+  "lga_id": 108,
+  "state_id": 5,
+  "senatorial_district_id": 14,
+  "representative_district_id": 50,
+  "lga_name": "Toro"
+ },
+ {
+  "lga_id": 109,
+  "state_id": 5,
+  "senatorial_district_id": 15,
+  "representative_district_id": 48,
+  "lga_name": "Warji"
+ },
+ {
+  "lga_id": 110,
+  "state_id": 5,
+  "senatorial_district_id": 16,
+  "representative_district_id": 41,
+  "lga_name": "Zaki"
+ },
+ {
+  "lga_id": 111,
+  "state_id": 6,
+  "senatorial_district_id": 18,
+  "representative_district_id": 55,
+  "lga_name": "Brass"
+ },
+ {
+  "lga_id": 112,
+  "state_id": 6,
+  "senatorial_district_id": 19,
+  "representative_district_id": 53,
+  "lga_name": "Ekeremor"
+ },
+ {
+  "lga_id": 113,
+  "state_id": 6,
+  "senatorial_district_id": 17,
+  "representative_district_id": 51,
+  "lga_name": "Kolokuma\/Opokuma"
+ },
+ {
+  "lga_id": 114,
+  "state_id": 6,
+  "senatorial_district_id": 18,
+  "representative_district_id": 55,
+  "lga_name": "Nembe"
+ },
+ {
+  "lga_id": 115,
+  "state_id": 6,
+  "senatorial_district_id": 18,
+  "representative_district_id": 52,
+  "lga_name": "Ogbia"
+ },
+ {
+  "lga_id": 116,
+  "state_id": 6,
+  "senatorial_district_id": 19,
+  "representative_district_id": 53,
+  "lga_name": "Sagbama"
+ },
+ {
+  "lga_id": 117,
+  "state_id": 6,
+  "senatorial_district_id": 17,
+  "representative_district_id": 54,
+  "lga_name": "Southern Ijaw"
+ },
+ {
+  "lga_id": 118,
+  "state_id": 6,
+  "senatorial_district_id": 17,
+  "representative_district_id": 51,
+  "lga_name": "Yenagoa"
+ },
+ {
+  "lga_id": 119,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 56,
+  "lga_name": "Agatu"
+ },
+ {
+  "lga_id": 120,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 56,
+  "lga_name": "Apa"
+ },
+ {
+  "lga_id": 121,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 61,
+  "lga_name": "Ado"
+ },
+ {
+  "lga_id": 122,
+  "state_id": 7,
+  "senatorial_district_id": 22,
+  "representative_district_id": 60,
+  "lga_name": "Buruku"
+ },
+ {
+  "lga_id": 123,
+  "state_id": 7,
+  "senatorial_district_id": 22,
+  "representative_district_id": 63,
+  "lga_name": "Gboko"
+ },
+ {
+  "lga_id": 124,
+  "state_id": 7,
+  "senatorial_district_id": 22,
+  "representative_district_id": 64,
+  "lga_name": "Guma"
+ },
+ {
+  "lga_id": 125,
+  "state_id": 7,
+  "senatorial_district_id": 22,
+  "representative_district_id": 65,
+  "lga_name": "Gwer East"
+ },
+ {
+  "lga_id": 126,
+  "state_id": 7,
+  "senatorial_district_id": 22,
+  "representative_district_id": 65,
+  "lga_name": "Gwer West"
+ },
+ {
+  "lga_id": 127,
+  "state_id": 7,
+  "senatorial_district_id": 21,
+  "representative_district_id": 62,
+  "lga_name": "Katsina-Ala"
+ },
+ {
+  "lga_id": 128,
+  "state_id": 7,
+  "senatorial_district_id": 21,
+  "representative_district_id": 59,
+  "lga_name": "Konshisha"
+ },
+ {
+  "lga_id": 129,
+  "state_id": 7,
+  "senatorial_district_id": 21,
+  "representative_district_id": 57,
+  "lga_name": "Kwande"
+ },
+ {
+  "lga_id": 130,
+  "state_id": 7,
+  "senatorial_district_id": 21,
+  "representative_district_id": 62,
+  "lga_name": "Logo"
+ },
+ {
+  "lga_id": 131,
+  "state_id": 7,
+  "senatorial_district_id": 22,
+  "representative_district_id": 64,
+  "lga_name": "Makurdi"
+ },
+ {
+  "lga_id": 132,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 67,
+  "lga_name": "Obi"
+ },
+ {
+  "lga_id": 133,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 61,
+  "lga_name": "Obadigbo"
+ },
+ {
+  "lga_id": 134,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 66,
+  "lga_name": "Ohimini"
+ },
+ {
+  "lga_id": 135,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 67,
+  "lga_name": "Oju"
+ },
+ {
+  "lga_id": 136,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 61,
+  "lga_name": "Opkokwu"
+ },
+ {
+  "lga_id": 137,
+  "state_id": 7,
+  "senatorial_district_id": 20,
+  "representative_district_id": 66,
+  "lga_name": "Otukpo"
+ },
+ {
+  "lga_id": 138,
+  "state_id": 7,
+  "senatorial_district_id": 22,
+  "representative_district_id": 63,
+  "lga_name": "Tarka"
+ },
+ {
+  "lga_id": 139,
+  "state_id": 7,
+  "senatorial_district_id": 21,
+  "representative_district_id": 62,
+  "lga_name": "Ukum"
+ },
+ {
+  "lga_id": 140,
+  "state_id": 7,
+  "senatorial_district_id": 21,
+  "representative_district_id": 57,
+  "lga_name": "Ushongo"
+ },
+ {
+  "lga_id": 141,
+  "state_id": 7,
+  "senatorial_district_id": 21,
+  "representative_district_id": 59,
+  "lga_name": "Vandeikya"
+ },
+ {
+  "lga_id": 142,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 72,
+  "lga_name": "Abadam"
+ },
+ {
+  "lga_id": 143,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 70,
+  "lga_name": "Askira-Uba"
+ },
+ {
+  "lga_id": 144,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 69,
+  "lga_name": "Bama"
+ },
+ {
+  "lga_id": 145,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 75,
+  "lga_name": "Bayo"
+ },
+ {
+  "lga_id": 146,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 75,
+  "lga_name": "Biu"
+ },
+ {
+  "lga_id": 147,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 73,
+  "lga_name": "Chibok"
+ },
+ {
+  "lga_id": 148,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 73,
+  "lga_name": "Damboa"
+ },
+ {
+  "lga_id": 149,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 71,
+  "lga_name": "Dikwa"
+ },
+ {
+  "lga_id": 150,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 77,
+  "lga_name": "Gubio"
+ },
+ {
+  "lga_id": 151,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 72,
+  "lga_name": "Guzamala"
+ },
+ {
+  "lga_id": 152,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 73,
+  "lga_name": "Gwoza"
+ },
+ {
+  "lga_id": 153,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 70,
+  "lga_name": "Hawul"
+ },
+ {
+  "lga_id": 154,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 68,
+  "lga_name": "Jere"
+ },
+ {
+  "lga_id": 155,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 77,
+  "lga_name": "Kaga"
+ },
+ {
+  "lga_id": 156,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 69,
+  "lga_name": "Kalabalge"
+ },
+ {
+  "lga_id": 157,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 71,
+  "lga_name": "Konduga"
+ },
+ {
+  "lga_id": 158,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 72,
+  "lga_name": "Kukawa"
+ },
+ {
+  "lga_id": 159,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 75,
+  "lga_name": "Kwaya Kusar"
+ },
+ {
+  "lga_id": 160,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 71,
+  "lga_name": "Mafaf"
+ },
+ {
+  "lga_id": 161,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 77,
+  "lga_name": "Magumeri"
+ },
+ {
+  "lga_id": 162,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 76,
+  "lga_name": "Maiduguri"
+ },
+ {
+  "lga_id": 163,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 74,
+  "lga_name": "Marte"
+ },
+ {
+  "lga_id": 164,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 72,
+  "lga_name": "Mobbar"
+ },
+ {
+  "lga_id": 165,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 74,
+  "lga_name": "Monguno"
+ },
+ {
+  "lga_id": 166,
+  "state_id": 8,
+  "senatorial_district_id": 23,
+  "representative_district_id": 69,
+  "lga_name": "Ngala"
+ },
+ {
+  "lga_id": 167,
+  "state_id": 8,
+  "senatorial_district_id": 24,
+  "representative_district_id": 74,
+  "lga_name": "Nganzai"
+ },
+ {
+  "lga_id": 168,
+  "state_id": 8,
+  "senatorial_district_id": 25,
+  "representative_district_id": 75,
+  "lga_name": "Shani"
+ },
+ {
+  "lga_id": 169,
+  "state_id": 9,
+  "senatorial_district_id": 28,
+  "representative_district_id": 81,
+  "lga_name": "Abi"
+ },
+ {
+  "lga_id": 170,
+  "state_id": 9,
+  "senatorial_district_id": 27,
+  "representative_district_id": 84,
+  "lga_name": "Akamkpa"
+ },
+ {
+  "lga_id": 171,
+  "state_id": 9,
+  "senatorial_district_id": 27,
+  "representative_district_id": 83,
+  "lga_name": "Akpabuyo"
+ },
+ {
+  "lga_id": 172,
+  "state_id": 9,
+  "senatorial_district_id": 27,
+  "representative_district_id": 83,
+  "lga_name": "Bakassi"
+ },
+ {
+  "lga_id": 173,
+  "state_id": 9,
+  "senatorial_district_id": 26,
+  "representative_district_id": 82,
+  "lga_name": "Bekwarra"
+ },
+ {
+  "lga_id": 174,
+  "state_id": 9,
+  "senatorial_district_id": 26,
+  "representative_district_id": 84,
+  "lga_name": "Biase"
+ },
+ {
+  "lga_id": 175,
+  "state_id": 9,
+  "senatorial_district_id": 28,
+  "representative_district_id": 80,
+  "lga_name": "Boki"
+ },
+ {
+  "lga_id": 176,
+  "state_id": 9,
+  "senatorial_district_id": 27,
+  "representative_district_id": 78,
+  "lga_name": "Calabar Municipal"
+ },
+ {
+  "lga_id": 177,
+  "state_id": 9,
+  "senatorial_district_id": 27,
+  "representative_district_id": 83,
+  "lga_name": "Calabar South"
+ },
+ {
+  "lga_id": 178,
+  "state_id": 9,
+  "senatorial_district_id": 28,
+  "representative_district_id": 85,
+  "lga_name": "Etung"
+ },
+ {
+  "lga_id": 179,
+  "state_id": 9,
+  "senatorial_district_id": 28,
+  "representative_district_id": 80,
+  "lga_name": "Ikom"
+ },
+ {
+  "lga_id": 180,
+  "state_id": 9,
+  "senatorial_district_id": 26,
+  "representative_district_id": 82,
+  "lga_name": "Obanliku"
+ },
+ {
+  "lga_id": 181,
+  "state_id": 9,
+  "senatorial_district_id": 28,
+  "representative_district_id": 85,
+  "lga_name": "Obubra"
+ },
+ {
+  "lga_id": 182,
+  "state_id": 9,
+  "senatorial_district_id": 26,
+  "representative_district_id": 82,
+  "lga_name": "Obudu"
+ },
+ {
+  "lga_id": 183,
+  "state_id": 9,
+  "senatorial_district_id": 27,
+  "representative_district_id": 78,
+  "lga_name": "Odukpani"
+ },
+ {
+  "lga_id": 184,
+  "state_id": 9,
+  "senatorial_district_id": 26,
+  "representative_district_id": 79,
+  "lga_name": "Ogoja"
+ },
+ {
+  "lga_id": 185,
+  "state_id": 9,
+  "senatorial_district_id": 28,
+  "representative_district_id": 81,
+  "lga_name": "Yakurr"
+ },
+ {
+  "lga_id": 186,
+  "state_id": 9,
+  "senatorial_district_id": 26,
+  "representative_district_id": 79,
+  "lga_name": "Yala"
+ },
+ {
+  "lga_id": 187,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 94,
+  "lga_name": "Aniocha North"
+ },
+ {
+  "lga_id": 188,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 94,
+  "lga_name": "Aniocha South"
+ },
+ {
+  "lga_id": 189,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 95,
+  "lga_name": "Bomadi"
+ },
+ {
+  "lga_id": 190,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 91,
+  "lga_name": "Burutu"
+ },
+ {
+  "lga_id": 191,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 86,
+  "lga_name": "Ethiope East"
+ },
+ {
+  "lga_id": 192,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 86,
+  "lga_name": "Ethiope West"
+ },
+ {
+  "lga_id": 193,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 93,
+  "lga_name": "Ika North East"
+ },
+ {
+  "lga_id": 194,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 93,
+  "lga_name": "Ika South"
+ },
+ {
+  "lga_id": 195,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 90,
+  "lga_name": "Isoko North"
+ },
+ {
+  "lga_id": 196,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 90,
+  "lga_name": "Isoko South"
+ },
+ {
+  "lga_id": 197,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 88,
+  "lga_name": "Ndokwa East"
+ },
+ {
+  "lga_id": 198,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 88,
+  "lga_name": "Ndokwa West"
+ },
+ {
+  "lga_id": 199,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 89,
+  "lga_name": "Opke"
+ },
+ {
+  "lga_id": 200,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 94,
+  "lga_name": "Oshimili North"
+ },
+ {
+  "lga_id": 201,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 94,
+  "lga_name": "Oshimili South"
+ },
+ {
+  "lga_id": 202,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 95,
+  "lga_name": "Patani"
+ },
+ {
+  "lga_id": 203,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 89,
+  "lga_name": "Sapele"
+ },
+ {
+  "lga_id": 204,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 87,
+  "lga_name": "Udu"
+ },
+ {
+  "lga_id": 205,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 87,
+  "lga_name": "Ughelli North"
+ },
+ {
+  "lga_id": 206,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 87,
+  "lga_name": "Ughelli South"
+ },
+ {
+  "lga_id": 207,
+  "state_id": 10,
+  "senatorial_district_id": 31,
+  "representative_district_id": 88,
+  "lga_name": "Ukwani"
+ },
+ {
+  "lga_id": 208,
+  "state_id": 10,
+  "senatorial_district_id": 29,
+  "representative_district_id": 89,
+  "lga_name": "Uvwie"
+ },
+ {
+  "lga_id": 209,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 92,
+  "lga_name": "Warri North"
+ },
+ {
+  "lga_id": 210,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 92,
+  "lga_name": "Warri South"
+ },
+ {
+  "lga_id": 211,
+  "state_id": 10,
+  "senatorial_district_id": 30,
+  "representative_district_id": 92,
+  "lga_name": "Warri South West"
+ },
+ {
+  "lga_id": 212,
+  "state_id": 11,
+  "senatorial_district_id": 32,
+  "representative_district_id": 101,
+  "lga_name": "Abakaliki"
+ },
+ {
+  "lga_id": 213,
+  "state_id": 11,
+  "senatorial_district_id": 33,
+  "representative_district_id": 100,
+  "lga_name": "Afikpo North"
+ },
+ {
+  "lga_id": 214,
+  "state_id": 11,
+  "senatorial_district_id": 33,
+  "representative_district_id": 100,
+  "lga_name": "Afikpo South"
+ },
+ {
+  "lga_id": 215,
+  "state_id": 11,
+  "senatorial_district_id": 32,
+  "representative_district_id": 97,
+  "lga_name": "Ebonyi"
+ },
+ {
+  "lga_id": 216,
+  "state_id": 11,
+  "senatorial_district_id": 34,
+  "representative_district_id": 98,
+  "lga_name": "Ezza North"
+ },
+ {
+  "lga_id": 217,
+  "state_id": 11,
+  "senatorial_district_id": 34,
+  "representative_district_id": 96,
+  "lga_name": "Ezza South"
+ },
+ {
+  "lga_id": 218,
+  "state_id": 11,
+  "senatorial_district_id": 34,
+  "representative_district_id": 96,
+  "lga_name": "Ikwo"
+ },
+ {
+  "lga_id": 219,
+  "state_id": 11,
+  "senatorial_district_id": 34,
+  "representative_district_id": 98,
+  "lga_name": "Ishielu"
+ },
+ {
+  "lga_id": 220,
+  "state_id": 11,
+  "senatorial_district_id": 33,
+  "representative_district_id": 99,
+  "lga_name": "Ivo"
+ },
+ {
+  "lga_id": 221,
+  "state_id": 11,
+  "senatorial_district_id": 32,
+  "representative_district_id": 101,
+  "lga_name": "Izzi"
+ },
+ {
+  "lga_id": 222,
+  "state_id": 11,
+  "senatorial_district_id": 34,
+  "representative_district_id": 99,
+  "lga_name": "Ohaozara"
+ },
+ {
+  "lga_id": 223,
+  "state_id": 11,
+  "senatorial_district_id": 32,
+  "representative_district_id": 97,
+  "lga_name": "Ohaukwu"
+ },
+ {
+  "lga_id": 224,
+  "state_id": 11,
+  "senatorial_district_id": 33,
+  "representative_district_id": 99,
+  "lga_name": "Onicha"
+ },
+ {
+  "lga_id": 225,
+  "state_id": 12,
+  "senatorial_district_id": 37,
+  "representative_district_id": 107,
+  "lga_name": "Akoko-Edo"
+ },
+ {
+  "lga_id": 226,
+  "state_id": 12,
+  "senatorial_district_id": 36,
+  "representative_district_id": 102,
+  "lga_name": "Egor"
+ },
+ {
+  "lga_id": 227,
+  "state_id": 12,
+  "senatorial_district_id": 35,
+  "representative_district_id": 105,
+  "lga_name": "Esan Central"
+ },
+ {
+  "lga_id": 228,
+  "state_id": 12,
+  "senatorial_district_id": 35,
+  "representative_district_id": 104,
+  "lga_name": "Esan North-East"
+ },
+ {
+  "lga_id": 229,
+  "state_id": 12,
+  "senatorial_district_id": 35,
+  "representative_district_id": 104,
+  "lga_name": "Esan South-East"
+ },
+ {
+  "lga_id": 230,
+  "state_id": 12,
+  "senatorial_district_id": 35,
+  "representative_district_id": 105,
+  "lga_name": "Esan West"
+ },
+ {
+  "lga_id": 231,
+  "state_id": 12,
+  "senatorial_district_id": 37,
+  "representative_district_id": 108,
+  "lga_name": "Etsako Central"
+ },
+ {
+  "lga_id": 232,
+  "state_id": 12,
+  "senatorial_district_id": 37,
+  "representative_district_id": 108,
+  "lga_name": "Etsako East"
+ },
+ {
+  "lga_id": 233,
+  "state_id": 12,
+  "senatorial_district_id": 37,
+  "representative_district_id": 108,
+  "lga_name": "Etsako West"
+ },
+ {
+  "lga_id": 234,
+  "state_id": 12,
+  "senatorial_district_id": 35,
+  "representative_district_id": 105,
+  "lga_name": "Igueben"
+ },
+ {
+  "lga_id": 235,
+  "state_id": 12,
+  "senatorial_district_id": 36,
+  "representative_district_id": 102,
+  "lga_name": "Ikpoba-Okha"
+ },
+ {
+  "lga_id": 236,
+  "state_id": 12,
+  "senatorial_district_id": 36,
+  "representative_district_id": 109,
+  "lga_name": "Orhionmwon"
+ },
+ {
+  "lga_id": 237,
+  "state_id": 12,
+  "senatorial_district_id": 36,
+  "representative_district_id": 110,
+  "lga_name": "Oredo"
+ },
+ {
+  "lga_id": 238,
+  "state_id": 12,
+  "senatorial_district_id": 36,
+  "representative_district_id": 106,
+  "lga_name": "Ovia North-East"
+ },
+ {
+  "lga_id": 239,
+  "state_id": 12,
+  "senatorial_district_id": 36,
+  "representative_district_id": 106,
+  "lga_name": "Ovia South-West"
+ },
+ {
+  "lga_id": 240,
+  "state_id": 12,
+  "senatorial_district_id": 37,
+  "representative_district_id": 103,
+  "lga_name": "Owan East"
+ },
+ {
+  "lga_id": 241,
+  "state_id": 12,
+  "senatorial_district_id": 37,
+  "representative_district_id": 103,
+  "lga_name": "Owan West"
+ },
+ {
+  "lga_id": 242,
+  "state_id": 12,
+  "senatorial_district_id": 36,
+  "representative_district_id": 109,
+  "lga_name": "Uhunmwode"
+ },
+ {
+  "lga_id": 243,
+  "state_id": 13,
+  "senatorial_district_id": 40,
+  "representative_district_id": 115,
+  "lga_name": "Ado Ekiti"
+ },
+ {
+  "lga_id": 244,
+  "state_id": 13,
+  "senatorial_district_id": 40,
+  "representative_district_id": 114,
+  "lga_name": "Efon"
+ },
+ {
+  "lga_id": 245,
+  "state_id": 13,
+  "senatorial_district_id": 39,
+  "representative_district_id": 112,
+  "lga_name": "Ekiti East"
+ },
+ {
+  "lga_id": 246,
+  "state_id": 13,
+  "senatorial_district_id": 39,
+  "representative_district_id": 116,
+  "lga_name": "Ekiti South West"
+ },
+ {
+  "lga_id": 247,
+  "state_id": 13,
+  "senatorial_district_id": 40,
+  "representative_district_id": 114,
+  "lga_name": "Ekiti West"
+ },
+ {
+  "lga_id": 248,
+  "state_id": 13,
+  "senatorial_district_id": 39,
+  "representative_district_id": 112,
+  "lga_name": "Emure"
+ },
+ {
+  "lga_id": 249,
+  "state_id": 13,
+  "senatorial_district_id": 39,
+  "representative_district_id": 112,
+  "lga_name": "Gbonyin"
+ },
+ {
+  "lga_id": 250,
+  "state_id": 13,
+  "senatorial_district_id": 38,
+  "representative_district_id": 111,
+  "lga_name": "Ido\/Osi"
+ },
+ {
+  "lga_id": 251,
+  "state_id": 13,
+  "senatorial_district_id": 40,
+  "representative_district_id": 114,
+  "lga_name": "Ijero"
+ },
+ {
+  "lga_id": 252,
+  "state_id": 13,
+  "senatorial_district_id": 39,
+  "representative_district_id": 116,
+  "lga_name": "Ikere"
+ },
+ {
+  "lga_id": 253,
+  "state_id": 13,
+  "senatorial_district_id": 38,
+  "representative_district_id": 113,
+  "lga_name": "Ikole"
+ },
+ {
+  "lga_id": 254,
+  "state_id": 13,
+  "senatorial_district_id": 38,
+  "representative_district_id": 111,
+  "lga_name": "Ilejeme"
+ },
+ {
+  "lga_id": 255,
+  "state_id": 13,
+  "senatorial_district_id": 40,
+  "representative_district_id": 115,
+  "lga_name": "Irepodun-Ifelodun"
+ },
+ {
+  "lga_id": 256,
+  "state_id": 13,
+  "senatorial_district_id": 39,
+  "representative_district_id": 116,
+  "lga_name": "Ise\/Orun"
+ },
+ {
+  "lga_id": 257,
+  "state_id": 13,
+  "senatorial_district_id": 38,
+  "representative_district_id": 111,
+  "lga_name": "Moba"
+ },
+ {
+  "lga_id": 258,
+  "state_id": 13,
+  "senatorial_district_id": 38,
+  "representative_district_id": 113,
+  "lga_name": "Oye"
+ },
+ {
+  "lga_id": 259,
+  "state_id": 14,
+  "senatorial_district_id": 43,
+  "representative_district_id": 120,
+  "lga_name": "Aninri"
+ },
+ {
+  "lga_id": 260,
+  "state_id": 14,
+  "senatorial_district_id": 43,
+  "representative_district_id": 120,
+  "lga_name": "Agwu"
+ },
+ {
+  "lga_id": 261,
+  "state_id": 14,
+  "senatorial_district_id": 42,
+  "representative_district_id": 118,
+  "lga_name": "Enugu East"
+ },
+ {
+  "lga_id": 262,
+  "state_id": 14,
+  "senatorial_district_id": 42,
+  "representative_district_id": 117,
+  "lga_name": "Enugu North"
+ },
+ {
+  "lga_id": 263,
+  "state_id": 14,
+  "senatorial_district_id": 42,
+  "representative_district_id": 117,
+  "lga_name": "Enugu South"
+ },
+ {
+  "lga_id": 264,
+  "state_id": 14,
+  "senatorial_district_id": 43,
+  "representative_district_id": 119,
+  "lga_name": "Ezeagu"
+ },
+ {
+  "lga_id": 265,
+  "state_id": 14,
+  "senatorial_district_id": 41,
+  "representative_district_id": 121,
+  "lga_name": "Igbo-Etiti"
+ },
+ {
+  "lga_id": 266,
+  "state_id": 14,
+  "senatorial_district_id": 41,
+  "representative_district_id": 514,
+  "lga_name": "Igboeze North"
+ },
+ {
+  "lga_id": 267,
+  "state_id": 14,
+  "senatorial_district_id": 41,
+  "representative_district_id": 123,
+  "lga_name": "Igbo-Eze South"
+ },
+ {
+  "lga_id": 268,
+  "state_id": 14,
+  "senatorial_district_id": 42,
+  "representative_district_id": 118,
+  "lga_name": "Isi-Uzo"
+ },
+ {
+  "lga_id": 269,
+  "state_id": 14,
+  "senatorial_district_id": 42,
+  "representative_district_id": 122,
+  "lga_name": "Nkanu East"
+ },
+ {
+  "lga_id": 270,
+  "state_id": 14,
+  "senatorial_district_id": 42,
+  "representative_district_id": 122,
+  "lga_name": "Nkanu West"
+ },
+ {
+  "lga_id": 271,
+  "state_id": 14,
+  "senatorial_district_id": 41,
+  "representative_district_id": 123,
+  "lga_name": "Nsukka"
+ },
+ {
+  "lga_id": 272,
+  "state_id": 14,
+  "senatorial_district_id": 43,
+  "representative_district_id": 120,
+  "lga_name": "Oji-Uzo"
+ },
+ {
+  "lga_id": 273,
+  "state_id": 14,
+  "senatorial_district_id": 41,
+  "representative_district_id": 514,
+  "lga_name": "Udenu"
+ },
+ {
+  "lga_id": 274,
+  "state_id": 14,
+  "senatorial_district_id": 43,
+  "representative_district_id": 119,
+  "lga_name": "Udi"
+ },
+ {
+  "lga_id": 275,
+  "state_id": 14,
+  "senatorial_district_id": 41,
+  "representative_district_id": 121,
+  "lga_name": "Uzo-Uwani"
+ },
+ {
+  "lga_id": 276,
+  "state_id": 15,
+  "senatorial_district_id": 1,
+  "representative_district_id": 1,
+  "lga_name": "Abaji"
+ },
+ {
+  "lga_id": 277,
+  "state_id": 15,
+  "senatorial_district_id": 1,
+  "representative_district_id": 2,
+  "lga_name": "Bwari"
+ },
+ {
+  "lga_id": 278,
+  "state_id": 15,
+  "senatorial_district_id": 1,
+  "representative_district_id": 1,
+  "lga_name": "Gwagwalada"
+ },
+ {
+  "lga_id": 279,
+  "state_id": 15,
+  "senatorial_district_id": 1,
+  "representative_district_id": 1,
+  "lga_name": "Kuje"
+ },
+ {
+  "lga_id": 280,
+  "state_id": 15,
+  "senatorial_district_id": 1,
+  "representative_district_id": 1,
+  "lga_name": "Kwali"
+ },
+ {
+  "lga_id": 281,
+  "state_id": 15,
+  "senatorial_district_id": 1,
+  "representative_district_id": 2,
+  "lga_name": "Abuja Municipal"
+ },
+ {
+  "lga_id": 282,
+  "state_id": 16,
+  "senatorial_district_id": 44,
+  "representative_district_id": 124,
+  "lga_name": "Akko"
+ },
+ {
+  "lga_id": 283,
+  "state_id": 16,
+  "senatorial_district_id": 46,
+  "representative_district_id": 130,
+  "lga_name": "Balanga"
+ },
+ {
+  "lga_id": 284,
+  "state_id": 16,
+  "senatorial_district_id": 46,
+  "representative_district_id": 130,
+  "lga_name": "Billiri"
+ },
+ {
+  "lga_id": 285,
+  "state_id": 16,
+  "senatorial_district_id": 45,
+  "representative_district_id": 129,
+  "lga_name": "Dukku"
+ },
+ {
+  "lga_id": 286,
+  "state_id": 16,
+  "senatorial_district_id": 45,
+  "representative_district_id": 126,
+  "lga_name": "Funakaye"
+ },
+ {
+  "lga_id": 287,
+  "state_id": 16,
+  "senatorial_district_id": 45,
+  "representative_district_id": 126,
+  "lga_name": "Gombe"
+ },
+ {
+  "lga_id": 288,
+  "state_id": 16,
+  "senatorial_district_id": 46,
+  "representative_district_id": 127,
+  "lga_name": "Kaltungo"
+ },
+ {
+  "lga_id": 289,
+  "state_id": 16,
+  "senatorial_district_id": 45,
+  "representative_district_id": 126,
+  "lga_name": "Kwami"
+ },
+ {
+  "lga_id": 290,
+  "state_id": 16,
+  "senatorial_district_id": 45,
+  "representative_district_id": 129,
+  "lga_name": "Nafada"
+ },
+ {
+  "lga_id": 291,
+  "state_id": 16,
+  "senatorial_district_id": 46,
+  "representative_district_id": 127,
+  "lga_name": "Shongom"
+ },
+ {
+  "lga_id": 292,
+  "state_id": 16,
+  "senatorial_district_id": 44,
+  "representative_district_id": 125,
+  "lga_name": "Yamaltu-Deba"
+ },
+ {
+  "lga_id": 293,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 131,
+  "lga_name": "Aboh Mbaise"
+ },
+ {
+  "lga_id": 294,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 136,
+  "lga_name": "Ahiazu Mbaise"
+ },
+ {
+  "lga_id": 295,
+  "state_id": 17,
+  "senatorial_district_id": 47,
+  "representative_district_id": 140,
+  "lga_name": "Ehimembano"
+ },
+ {
+  "lga_id": 296,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 136,
+  "lga_name": "Ezinihitte"
+ },
+ {
+  "lga_id": 297,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 138,
+  "lga_name": "Ideato North"
+ },
+ {
+  "lga_id": 298,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 138,
+  "lga_name": "Ideato South"
+ },
+ {
+  "lga_id": 299,
+  "state_id": 17,
+  "senatorial_district_id": 47,
+  "representative_district_id": 140,
+  "lga_name": "Ihitte Uboma"
+ },
+ {
+  "lga_id": 300,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 133,
+  "lga_name": "Ikeduru"
+ },
+ {
+  "lga_id": 301,
+  "state_id": 17,
+  "senatorial_district_id": 47,
+  "representative_district_id": 135,
+  "lga_name": "Isiala Mbano"
+ },
+ {
+  "lga_id": 302,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 134,
+  "lga_name": "Isu"
+ },
+ {
+  "lga_id": 303,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 133,
+  "lga_name": "Mbaitolu"
+ },
+ {
+  "lga_id": 304,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 131,
+  "lga_name": "Ngor Okpala"
+ },
+ {
+  "lga_id": 305,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 134,
+  "lga_name": "Njaba"
+ },
+ {
+  "lga_id": 306,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 134,
+  "lga_name": "Nkwerre"
+ },
+ {
+  "lga_id": 307,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 134,
+  "lga_name": "Nwangele"
+ },
+ {
+  "lga_id": 308,
+  "state_id": 17,
+  "senatorial_district_id": 47,
+  "representative_district_id": 140,
+  "lga_name": "Obowo"
+ },
+ {
+  "lga_id": 309,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 132,
+  "lga_name": "Oguta"
+ },
+ {
+  "lga_id": 310,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 132,
+  "lga_name": "Ohaji-Egbema"
+ },
+ {
+  "lga_id": 311,
+  "state_id": 17,
+  "senatorial_district_id": 47,
+  "representative_district_id": 135,
+  "lga_name": "Okigwe"
+ },
+ {
+  "lga_id": 312,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 137,
+  "lga_name": "Orlu"
+ },
+ {
+  "lga_id": 313,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 137,
+  "lga_name": "Orsu"
+ },
+ {
+  "lga_id": 314,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 137,
+  "lga_name": "Oru East"
+ },
+ {
+  "lga_id": 315,
+  "state_id": 17,
+  "senatorial_district_id": 49,
+  "representative_district_id": 132,
+  "lga_name": "Oru West"
+ },
+ {
+  "lga_id": 316,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 139,
+  "lga_name": "Owerri Municipal"
+ },
+ {
+  "lga_id": 317,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 139,
+  "lga_name": "Owerri North"
+ },
+ {
+  "lga_id": 318,
+  "state_id": 17,
+  "senatorial_district_id": 48,
+  "representative_district_id": 139,
+  "lga_name": "Owerri West"
+ },
+ {
+  "lga_id": 319,
+  "state_id": 17,
+  "senatorial_district_id": 47,
+  "representative_district_id": 135,
+  "lga_name": "Onuimo"
+ },
+ {
+  "lga_id": 320,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 141,
+  "lga_name": "Auyo"
+ },
+ {
+  "lga_id": 321,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 148,
+  "lga_name": "Babura"
+ },
+ {
+  "lga_id": 322,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 149,
+  "lga_name": "Birniwa"
+ },
+ {
+  "lga_id": 323,
+  "state_id": 18,
+  "senatorial_district_id": 52,
+  "representative_district_id": 143,
+  "lga_name": "Birnin-Kudu"
+ },
+ {
+  "lga_id": 324,
+  "state_id": 18,
+  "senatorial_district_id": 52,
+  "representative_district_id": 143,
+  "lga_name": "Buji"
+ },
+ {
+  "lga_id": 325,
+  "state_id": 18,
+  "senatorial_district_id": 52,
+  "representative_district_id": 144,
+  "lga_name": "Dutse"
+ },
+ {
+  "lga_id": 326,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 150,
+  "lga_name": "Gagara"
+ },
+ {
+  "lga_id": 327,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 148,
+  "lga_name": "Garki"
+ },
+ {
+  "lga_id": 328,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 150,
+  "lga_name": "Gumel"
+ },
+ {
+  "lga_id": 329,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 149,
+  "lga_name": "Guri"
+ },
+ {
+  "lga_id": 330,
+  "state_id": 18,
+  "senatorial_district_id": 52,
+  "representative_district_id": 147,
+  "lga_name": "Gwaram"
+ },
+ {
+  "lga_id": 331,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 145,
+  "lga_name": "Gwiwa"
+ },
+ {
+  "lga_id": 332,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 141,
+  "lga_name": "Hadejia"
+ },
+ {
+  "lga_id": 333,
+  "state_id": 18,
+  "senatorial_district_id": 52,
+  "representative_district_id": 512,
+  "lga_name": "Jahun"
+ },
+ {
+  "lga_id": 334,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 141,
+  "lga_name": "Kafin Hausa"
+ },
+ {
+  "lga_id": 335,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 145,
+  "lga_name": "Kazaure"
+ },
+ {
+  "lga_id": 336,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 149,
+  "lga_name": "Kiri-Kasamma"
+ },
+ {
+  "lga_id": 337,
+  "state_id": 18,
+  "senatorial_district_id": 52,
+  "representative_district_id": 144,
+  "lga_name": "Kiyawa"
+ },
+ {
+  "lga_id": 338,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 142,
+  "lga_name": "Kaugama"
+ },
+ {
+  "lga_id": 339,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 150,
+  "lga_name": "Maigatar"
+ },
+ {
+  "lga_id": 340,
+  "state_id": 18,
+  "senatorial_district_id": 50,
+  "representative_district_id": 142,
+  "lga_name": "Mallam Madori"
+ },
+ {
+  "lga_id": 341,
+  "state_id": 18,
+  "senatorial_district_id": 52,
+  "representative_district_id": 512,
+  "lga_name": "Miga"
+ },
+ {
+  "lga_id": 342,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 146,
+  "lga_name": "Ringim"
+ },
+ {
+  "lga_id": 343,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 145,
+  "lga_name": "Roni"
+ },
+ {
+  "lga_id": 344,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 150,
+  "lga_name": "Sule Tankarkar"
+ },
+ {
+  "lga_id": 345,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 146,
+  "lga_name": "Taura"
+ },
+ {
+  "lga_id": 346,
+  "state_id": 18,
+  "senatorial_district_id": 51,
+  "representative_district_id": 145,
+  "lga_name": "Yankwashi"
+ },
+ {
+  "lga_id": 347,
+  "state_id": 19,
+  "senatorial_district_id": 53,
+  "representative_district_id": 164,
+  "lga_name": "Birnin-Gwari"
+ },
+ {
+  "lga_id": 348,
+  "state_id": 19,
+  "senatorial_district_id": 53,
+  "representative_district_id": 153,
+  "lga_name": "Chikun"
+ },
+ {
+  "lga_id": 349,
+  "state_id": 19,
+  "senatorial_district_id": 53,
+  "representative_district_id": 164,
+  "lga_name": "Giwa"
+ },
+ {
+  "lga_id": 350,
+  "state_id": 19,
+  "senatorial_district_id": 53,
+  "representative_district_id": 163,
+  "lga_name": "Igabi"
+ },
+ {
+  "lga_id": 351,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 156,
+  "lga_name": "Ikara"
+ },
+ {
+  "lga_id": 352,
+  "state_id": 19,
+  "senatorial_district_id": 55,
+  "representative_district_id": 162,
+  "lga_name": "Jaba"
+ },
+ {
+  "lga_id": 353,
+  "state_id": 19,
+  "senatorial_district_id": 55,
+  "representative_district_id": 161,
+  "lga_name": "Jemaa"
+ },
+ {
+  "lga_id": 354,
+  "state_id": 19,
+  "senatorial_district_id": 55,
+  "representative_district_id": 155,
+  "lga_name": "Kachia"
+ },
+ {
+  "lga_id": 355,
+  "state_id": 19,
+  "senatorial_district_id": 53,
+  "representative_district_id": 160,
+  "lga_name": "Kaduna North"
+ },
+ {
+  "lga_id": 356,
+  "state_id": 19,
+  "senatorial_district_id": 53,
+  "representative_district_id": 154,
+  "lga_name": "Kaduna South"
+ },
+ {
+  "lga_id": 357,
+  "state_id": 19,
+  "senatorial_district_id": 55,
+  "representative_district_id": 155,
+  "lga_name": "Kagarko"
+ },
+ {
+  "lga_id": 358,
+  "state_id": 19,
+  "senatorial_district_id": 53,
+  "representative_district_id": 153,
+  "lga_name": "Kajuru"
+ },
+ {
+  "lga_id": 359,
+  "state_id": 19,
+  "senatorial_district_id": 55,
+  "representative_district_id": 159,
+  "lga_name": "Kaura"
+ },
+ {
+  "lga_id": 360,
+  "state_id": 19,
+  "senatorial_district_id": 55,
+  "representative_district_id": 151,
+  "lga_name": "Kauru"
+ },
+ {
+  "lga_id": 361,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 156,
+  "lga_name": "Kubau"
+ },
+ {
+  "lga_id": 362,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 158,
+  "lga_name": "Kudan"
+ },
+ {
+  "lga_id": 363,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 166,
+  "lga_name": "Lere"
+ },
+ {
+  "lga_id": 364,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 158,
+  "lga_name": "Makarfi"
+ },
+ {
+  "lga_id": 365,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 157,
+  "lga_name": "Sabon Gari"
+ },
+ {
+  "lga_id": 366,
+  "state_id": 19,
+  "senatorial_district_id": 55,
+  "representative_district_id": 161,
+  "lga_name": "Sanga"
+ },
+ {
+  "lga_id": 367,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 152,
+  "lga_name": "Soba"
+ },
+ {
+  "lga_id": 368,
+  "state_id": 19,
+  "senatorial_district_id": 56,
+  "representative_district_id": 162,
+  "lga_name": "Zangon Kataf"
+ },
+ {
+  "lga_id": 369,
+  "state_id": 19,
+  "senatorial_district_id": 54,
+  "representative_district_id": 165,
+  "lga_name": "Zaria"
+ },
+ {
+  "lga_id": 370,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 170,
+  "lga_name": "Ajingi"
+ },
+ {
+  "lga_id": 371,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 170,
+  "lga_name": "Alabasu"
+ },
+ {
+  "lga_id": 372,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 167,
+  "lga_name": "Bagwai"
+ },
+ {
+  "lga_id": 373,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 181,
+  "lga_name": "Bebeji"
+ },
+ {
+  "lga_id": 374,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 184,
+  "lga_name": "Bichi"
+ },
+ {
+  "lga_id": 375,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 168,
+  "lga_name": "Bunkure"
+ },
+ {
+  "lga_id": 376,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 186,
+  "lga_name": "Dala"
+ },
+ {
+  "lga_id": 377,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 172,
+  "lga_name": "Dambatta"
+ },
+ {
+  "lga_id": 378,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 190,
+  "lga_name": "Dawakin Kudu"
+ },
+ {
+  "lga_id": 379,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 189,
+  "lga_name": "Dawakin-Tofa"
+ },
+ {
+  "lga_id": 380,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 176,
+  "lga_name": "Doguwa"
+ },
+ {
+  "lga_id": 381,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 178,
+  "lga_name": "Fagge"
+ },
+ {
+  "lga_id": 382,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 169,
+  "lga_name": "Gabasawa"
+ },
+ {
+  "lga_id": 383,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 175,
+  "lga_name": "Garko"
+ },
+ {
+  "lga_id": 384,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 182,
+  "lga_name": "Garun Malam"
+ },
+ {
+  "lga_id": 385,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 170,
+  "lga_name": "Gaya"
+ },
+ {
+  "lga_id": 386,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 169,
+  "lga_name": "Gezawa"
+ },
+ {
+  "lga_id": 387,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 174,
+  "lga_name": "Gwale"
+ },
+ {
+  "lga_id": 388,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 180,
+  "lga_name": "Gwarzo"
+ },
+ {
+  "lga_id": 389,
+  "state_id": 20,
+  "senatorial_district_id": 54,
+  "representative_district_id": 180,
+  "lga_name": "Ikabo"
+ },
+ {
+  "lga_id": 390,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 179,
+  "lga_name": "Kano Municipal"
+ },
+ {
+  "lga_id": 391,
+  "state_id": 20,
+  "senatorial_district_id": 54,
+  "representative_district_id": 185,
+  "lga_name": "Karaye"
+ },
+ {
+  "lga_id": 392,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 168,
+  "lga_name": "Kibiya"
+ },
+ {
+  "lga_id": 393,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 181,
+  "lga_name": "Kiru"
+ },
+ {
+  "lga_id": 394,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 183,
+  "lga_name": "Kumbotso"
+ },
+ {
+  "lga_id": 395,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 177,
+  "lga_name": "Kunchi"
+ },
+ {
+  "lga_id": 396,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 182,
+  "lga_name": "Kura"
+ },
+ {
+  "lga_id": 397,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 182,
+  "lga_name": "Madobi"
+ },
+ {
+  "lga_id": 398,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 172,
+  "lga_name": "Makoda"
+ },
+ {
+  "lga_id": 399,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 188,
+  "lga_name": "Minjibir"
+ },
+ {
+  "lga_id": 400,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 173,
+  "lga_name": "Nasarawa"
+ },
+ {
+  "lga_id": 401,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 168,
+  "lga_name": "Rano"
+ },
+ {
+  "lga_id": 402,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 189,
+  "lga_name": "Rimin Gado"
+ },
+ {
+  "lga_id": 403,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 185,
+  "lga_name": "Rogo"
+ },
+ {
+  "lga_id": 404,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 167,
+  "lga_name": "Shanono"
+ },
+ {
+  "lga_id": 405,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 187,
+  "lga_name": "Sumaila"
+ },
+ {
+  "lga_id": 406,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 187,
+  "lga_name": "Takai"
+ },
+ {
+  "lga_id": 407,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 171,
+  "lga_name": "Tarauni"
+ },
+ {
+  "lga_id": 408,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 189,
+  "lga_name": "Tofa"
+ },
+ {
+  "lga_id": 409,
+  "state_id": 20,
+  "senatorial_district_id": 57,
+  "representative_district_id": 177,
+  "lga_name": "Tsanyawa"
+ },
+ {
+  "lga_id": 410,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 176,
+  "lga_name": "Tudun-Wada"
+ },
+ {
+  "lga_id": 411,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 188,
+  "lga_name": "Ungogo"
+ },
+ {
+  "lga_id": 412,
+  "state_id": 20,
+  "senatorial_district_id": 58,
+  "representative_district_id": 190,
+  "lga_name": "Warawa"
+ },
+ {
+  "lga_id": 413,
+  "state_id": 20,
+  "senatorial_district_id": 56,
+  "representative_district_id": 175,
+  "lga_name": "Wudil"
+ },
+ {
+  "lga_id": 414,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 194,
+  "lga_name": "Bakori"
+ },
+ {
+  "lga_id": 415,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 197,
+  "lga_name": "Batagarawa"
+ },
+ {
+  "lga_id": 416,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 200,
+  "lga_name": "Batsari"
+ },
+ {
+  "lga_id": 417,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 204,
+  "lga_name": "Baure"
+ },
+ {
+  "lga_id": 418,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 192,
+  "lga_name": "Bindawa"
+ },
+ {
+  "lga_id": 419,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 197,
+  "lga_name": "Charanchi"
+ },
+ {
+  "lga_id": 420,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 198,
+  "lga_name": "Dandume"
+ },
+ {
+  "lga_id": 421,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 194,
+  "lga_name": "Danja"
+ },
+ {
+  "lga_id": 422,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 200,
+  "lga_name": "Dan Musa"
+ },
+ {
+  "lga_id": 423,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 196,
+  "lga_name": "Daura"
+ },
+ {
+  "lga_id": 424,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 193,
+  "lga_name": "Dutsi"
+ },
+ {
+  "lga_id": 425,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 201,
+  "lga_name": "Dutsin-Ma"
+ },
+ {
+  "lga_id": 426,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 195,
+  "lga_name": "Faskari"
+ },
+ {
+  "lga_id": 427,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 198,
+  "lga_name": "Funtua"
+ },
+ {
+  "lga_id": 428,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 199,
+  "lga_name": "Ingawa"
+ },
+ {
+  "lga_id": 429,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 203,
+  "lga_name": "Jibia"
+ },
+ {
+  "lga_id": 430,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 202,
+  "lga_name": "Kafur"
+ },
+ {
+  "lga_id": 431,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 203,
+  "lga_name": "Kaita"
+ },
+ {
+  "lga_id": 432,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 195,
+  "lga_name": "Kankara"
+ },
+ {
+  "lga_id": 433,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 199,
+  "lga_name": "Kankia"
+ },
+ {
+  "lga_id": 434,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 515,
+  "lga_name": "Katsina"
+ },
+ {
+  "lga_id": 435,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 201,
+  "lga_name": "Kurfi"
+ },
+ {
+  "lga_id": 436,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 199,
+  "lga_name": "Kusada"
+ },
+ {
+  "lga_id": 437,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 196,
+  "lga_name": "MaiAdua"
+ },
+ {
+  "lga_id": 438,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 202,
+  "lga_name": "MalumFashi"
+ },
+ {
+  "lga_id": 439,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 192,
+  "lga_name": "Mani"
+ },
+ {
+  "lga_id": 440,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 193,
+  "lga_name": "Mashi"
+ },
+ {
+  "lga_id": 441,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 191,
+  "lga_name": "Matazu"
+ },
+ {
+  "lga_id": 442,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 191,
+  "lga_name": "Musawa"
+ },
+ {
+  "lga_id": 443,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 197,
+  "lga_name": "Rimi"
+ },
+ {
+  "lga_id": 444,
+  "state_id": 21,
+  "senatorial_district_id": 59,
+  "representative_district_id": 195,
+  "lga_name": "Sabuwa"
+ },
+ {
+  "lga_id": 445,
+  "state_id": 21,
+  "senatorial_district_id": 60,
+  "representative_district_id": 200,
+  "lga_name": "Safana"
+ },
+ {
+  "lga_id": 446,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 196,
+  "lga_name": "Sandamu"
+ },
+ {
+  "lga_id": 447,
+  "state_id": 21,
+  "senatorial_district_id": 61,
+  "representative_district_id": 204,
+  "lga_name": "Zango"
+ },
+ {
+  "lga_id": 448,
+  "state_id": 22,
+  "senatorial_district_id": 62,
+  "representative_district_id": 209,
+  "lga_name": "Aliero"
+ },
+ {
+  "lga_id": 449,
+  "state_id": 22,
+  "senatorial_district_id": 64,
+  "representative_district_id": 211,
+  "lga_name": "Arewa\/Dandi"
+ },
+ {
+  "lga_id": 450,
+  "state_id": 22,
+  "senatorial_district_id": 64,
+  "representative_district_id": 206,
+  "lga_name": "Argungu"
+ },
+ {
+  "lga_id": 451,
+  "state_id": 22,
+  "senatorial_district_id": 64,
+  "representative_district_id": 206,
+  "lga_name": "Augie"
+ },
+ {
+  "lga_id": 452,
+  "state_id": 22,
+  "senatorial_district_id": 64,
+  "representative_district_id": 205,
+  "lga_name": "Bagudo"
+ },
+ {
+  "lga_id": 453,
+  "state_id": 22,
+  "senatorial_district_id": 62,
+  "representative_district_id": 207,
+  "lga_name": "Birnin Kebbi"
+ },
+ {
+  "lga_id": 454,
+  "state_id": 22,
+  "senatorial_district_id": 62,
+  "representative_district_id": 207,
+  "lga_name": "Bunza"
+ },
+ {
+  "lga_id": 455,
+  "state_id": 22,
+  "senatorial_district_id": 64,
+  "representative_district_id": 211,
+  "lga_name": "Dandi"
+ },
+ {
+  "lga_id": 456,
+  "state_id": 22,
+  "senatorial_district_id": 63,
+  "representative_district_id": 212,
+  "lga_name": "Fakai"
+ },
+ {
+  "lga_id": 457,
+  "state_id": 22,
+  "senatorial_district_id": 62,
+  "representative_district_id": 209,
+  "lga_name": "Gwandu"
+ },
+ {
+  "lga_id": 458,
+  "state_id": 22,
+  "senatorial_district_id": 64,
+  "representative_district_id": 209,
+  "lga_name": "Jega"
+ },
+ {
+  "lga_id": 459,
+  "state_id": 22,
+  "senatorial_district_id": 62,
+  "representative_district_id": 207,
+  "lga_name": "Kalgo"
+ },
+ {
+  "lga_id": 460,
+  "state_id": 22,
+  "senatorial_district_id": 62,
+  "representative_district_id": 210,
+  "lga_name": "Koko\/Besse"
+ },
+ {
+  "lga_id": 461,
+  "state_id": 22,
+  "senatorial_district_id": 62,
+  "representative_district_id": 210,
+  "lga_name": "Maiyama"
+ },
+ {
+  "lga_id": 462,
+  "state_id": 22,
+  "senatorial_district_id": 63,
+  "representative_district_id": 208,
+  "lga_name": "Ngaski"
+ },
+ {
+  "lga_id": 463,
+  "state_id": 22,
+  "senatorial_district_id": 63,
+  "representative_district_id": 212,
+  "lga_name": "Sakaba"
+ },
+ {
+  "lga_id": 464,
+  "state_id": 22,
+  "senatorial_district_id": 63,
+  "representative_district_id": 208,
+  "lga_name": "Shanga"
+ },
+ {
+  "lga_id": 465,
+  "state_id": 22,
+  "senatorial_district_id": 64,
+  "representative_district_id": 205,
+  "lga_name": "Suru"
+ },
+ {
+  "lga_id": 466,
+  "state_id": 22,
+  "senatorial_district_id": 63,
+  "representative_district_id": 212,
+  "lga_name": "Wasagu"
+ },
+ {
+  "lga_id": 467,
+  "state_id": 22,
+  "senatorial_district_id": 63,
+  "representative_district_id": 208,
+  "lga_name": "Yauri"
+ },
+ {
+  "lga_id": 468,
+  "state_id": 22,
+  "senatorial_district_id": 63,
+  "representative_district_id": 212,
+  "lga_name": "Zuru"
+ },
+ {
+  "lga_id": 469,
+  "state_id": 23,
+  "senatorial_district_id": 65,
+  "representative_district_id": 218,
+  "lga_name": "Adavi"
+ },
+ {
+  "lga_id": 470,
+  "state_id": 23,
+  "senatorial_district_id": 65,
+  "representative_district_id": 216,
+  "lga_name": "Ajaokuta"
+ },
+ {
+  "lga_id": 471,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 219,
+  "lga_name": "Ankpa"
+ },
+ {
+  "lga_id": 472,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 213,
+  "lga_name": "Bassa"
+ },
+ {
+  "lga_id": 473,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 213,
+  "lga_name": "Dekina"
+ },
+ {
+  "lga_id": 474,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 220,
+  "lga_name": "Ibaji"
+ },
+ {
+  "lga_id": 475,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 220,
+  "lga_name": "Idah"
+ },
+ {
+  "lga_id": 476,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 220,
+  "lga_name": "Igalamela"
+ },
+ {
+  "lga_id": 477,
+  "state_id": 23,
+  "senatorial_district_id": 67,
+  "representative_district_id": 221,
+  "lga_name": "Ijumu"
+ },
+ {
+  "lga_id": 478,
+  "state_id": 23,
+  "senatorial_district_id": 67,
+  "representative_district_id": 221,
+  "lga_name": "Kabba\/Bunu"
+ },
+ {
+  "lga_id": 479,
+  "state_id": 23,
+  "senatorial_district_id": 67,
+  "representative_district_id": 215,
+  "lga_name": "Kogi"
+ },
+ {
+  "lga_id": 480,
+  "state_id": 23,
+  "senatorial_district_id": 67,
+  "representative_district_id": 215,
+  "lga_name": "Lokoja"
+ },
+ {
+  "lga_id": 481,
+  "state_id": 23,
+  "senatorial_district_id": 67,
+  "representative_district_id": 214,
+  "lga_name": "Mopa-Muro"
+ },
+ {
+  "lga_id": 482,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 220,
+  "lga_name": "Ofu"
+ },
+ {
+  "lga_id": 483,
+  "state_id": 23,
+  "senatorial_district_id": 65,
+  "representative_district_id": 217,
+  "lga_name": "Ogori-Magogo"
+ },
+ {
+  "lga_id": 484,
+  "state_id": 23,
+  "senatorial_district_id": 65,
+  "representative_district_id": 218,
+  "lga_name": "Okehi"
+ },
+ {
+  "lga_id": 485,
+  "state_id": 23,
+  "senatorial_district_id": 65,
+  "representative_district_id": 217,
+  "lga_name": "Okene"
+ },
+ {
+  "lga_id": 486,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 219,
+  "lga_name": "Olamaboro"
+ },
+ {
+  "lga_id": 487,
+  "state_id": 23,
+  "senatorial_district_id": 66,
+  "representative_district_id": 219,
+  "lga_name": "Omala"
+ },
+ {
+  "lga_id": 488,
+  "state_id": 23,
+  "senatorial_district_id": 67,
+  "representative_district_id": 214,
+  "lga_name": "Yagba East"
+ },
+ {
+  "lga_id": 489,
+  "state_id": 23,
+  "senatorial_district_id": 67,
+  "representative_district_id": 214,
+  "lga_name": "Yagba West"
+ },
+ {
+  "lga_id": 490,
+  "state_id": 24,
+  "senatorial_district_id": 68,
+  "representative_district_id": 223,
+  "lga_name": "Asa"
+ },
+ {
+  "lga_id": 491,
+  "state_id": 24,
+  "senatorial_district_id": 70,
+  "representative_district_id": 227,
+  "lga_name": "Baruten"
+ },
+ {
+  "lga_id": 492,
+  "state_id": 24,
+  "senatorial_district_id": 70,
+  "representative_district_id": 222,
+  "lga_name": "Edu"
+ },
+ {
+  "lga_id": 493,
+  "state_id": 24,
+  "senatorial_district_id": 69,
+  "representative_district_id": 226,
+  "lga_name": "Ekiti"
+ },
+ {
+  "lga_id": 494,
+  "state_id": 24,
+  "senatorial_district_id": 69,
+  "representative_district_id": 224,
+  "lga_name": "Ifelodun"
+ },
+ {
+  "lga_id": 495,
+  "state_id": 24,
+  "senatorial_district_id": 68,
+  "representative_district_id": 225,
+  "lga_name": "Ilorin East"
+ },
+ {
+  "lga_id": 496,
+  "state_id": 24,
+  "senatorial_district_id": 68,
+  "representative_district_id": 225,
+  "lga_name": "Ilorin South"
+ },
+ {
+  "lga_id": 497,
+  "state_id": 24,
+  "senatorial_district_id": 68,
+  "representative_district_id": 223,
+  "lga_name": "Ilorin West"
+ },
+ {
+  "lga_id": 498,
+  "state_id": 24,
+  "senatorial_district_id": 69,
+  "representative_district_id": 226,
+  "lga_name": "Irepodun"
+ },
+ {
+  "lga_id": 499,
+  "state_id": 24,
+  "senatorial_district_id": 69,
+  "representative_district_id": 226,
+  "lga_name": "Isin"
+ },
+ {
+  "lga_id": 500,
+  "state_id": 24,
+  "senatorial_district_id": 70,
+  "representative_district_id": 227,
+  "lga_name": "Kaiama"
+ },
+ {
+  "lga_id": 501,
+  "state_id": 24,
+  "senatorial_district_id": 70,
+  "representative_district_id": 222,
+  "lga_name": "Moro"
+ },
+ {
+  "lga_id": 502,
+  "state_id": 24,
+  "senatorial_district_id": 68,
+  "representative_district_id": 224,
+  "lga_name": "Offa"
+ },
+ {
+  "lga_id": 503,
+  "state_id": 24,
+  "senatorial_district_id": 69,
+  "representative_district_id": 226,
+  "lga_name": "Oke-ero"
+ },
+ {
+  "lga_id": 504,
+  "state_id": 24,
+  "senatorial_district_id": 69,
+  "representative_district_id": 224,
+  "lga_name": "Oyun"
+ },
+ {
+  "lga_id": 505,
+  "state_id": 24,
+  "senatorial_district_id": 70,
+  "representative_district_id": 222,
+  "lga_name": "Patigi"
+ },
+ {
+  "lga_id": 506,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 235,
+  "lga_name": "Agege"
+ },
+ {
+  "lga_id": 507,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 244,
+  "lga_name": "Ajeromi-Ifelodun"
+ },
+ {
+  "lga_id": 508,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 240,
+  "lga_name": "Alimosho"
+ },
+ {
+  "lga_id": 509,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 247,
+  "lga_name": "Amuwo Odofin"
+ },
+ {
+  "lga_id": 510,
+  "state_id": 25,
+  "senatorial_district_id": 71,
+  "representative_district_id": 248,
+  "lga_name": "Apapa"
+ },
+ {
+  "lga_id": 511,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 242,
+  "lga_name": "Badagry"
+ },
+ {
+  "lga_id": 512,
+  "state_id": 25,
+  "senatorial_district_id": 72,
+  "representative_district_id": 234,
+  "lga_name": "Epe"
+ },
+ {
+  "lga_id": 513,
+  "state_id": 25,
+  "senatorial_district_id": 71,
+  "representative_district_id": 237,
+  "lga_name": "Eti-Osa"
+ },
+ {
+  "lga_id": 514,
+  "state_id": 25,
+  "senatorial_district_id": 72,
+  "representative_district_id": 241,
+  "lga_name": "Ibeju-Lekki"
+ },
+ {
+  "lga_id": 515,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 231,
+  "lga_name": "Ifako-Ijaiye"
+ },
+ {
+  "lga_id": 516,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 228,
+  "lga_name": "Ikeja"
+ },
+ {
+  "lga_id": 517,
+  "state_id": 25,
+  "senatorial_district_id": 72,
+  "representative_district_id": 229,
+  "lga_name": "Ikorodu"
+ },
+ {
+  "lga_id": 518,
+  "state_id": 25,
+  "senatorial_district_id": 72,
+  "representative_district_id": 238,
+  "lga_name": "Kosofe"
+ },
+ {
+  "lga_id": 519,
+  "state_id": 25,
+  "senatorial_district_id": 71,
+  "representative_district_id": 243,
+  "lga_name": "Lagos Island"
+ },
+ {
+  "lga_id": 520,
+  "state_id": 25,
+  "senatorial_district_id": 71,
+  "representative_district_id": 232,
+  "lga_name": "Lagos Mainland"
+ },
+ {
+  "lga_id": 521,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 230,
+  "lga_name": "Mushin"
+ },
+ {
+  "lga_id": 522,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 239,
+  "lga_name": "Ojo"
+ },
+ {
+  "lga_id": 523,
+  "state_id": 25,
+  "senatorial_district_id": 73,
+  "representative_district_id": 233,
+  "lga_name": "Oshodi-Isolo"
+ },
+ {
+  "lga_id": 524,
+  "state_id": 25,
+  "senatorial_district_id": 72,
+  "representative_district_id": 245,
+  "lga_name": "Somolu"
+ },
+ {
+  "lga_id": 525,
+  "state_id": 25,
+  "senatorial_district_id": 71,
+  "representative_district_id": 236,
+  "lga_name": "Surulere"
+ },
+ {
+  "lga_id": 526,
+  "state_id": 26,
+  "senatorial_district_id": 75,
+  "representative_district_id": 254,
+  "lga_name": "Akwanga"
+ },
+ {
+  "lga_id": 527,
+  "state_id": 26,
+  "senatorial_district_id": 76,
+  "representative_district_id": 255,
+  "lga_name": "Awe"
+ },
+ {
+  "lga_id": 528,
+  "state_id": 26,
+  "senatorial_district_id": 76,
+  "representative_district_id": 255,
+  "lga_name": "Doma"
+ },
+ {
+  "lga_id": 529,
+  "state_id": 26,
+  "senatorial_district_id": 74,
+  "representative_district_id": 252,
+  "lga_name": "Karu"
+ },
+ {
+  "lga_id": 530,
+  "state_id": 26,
+  "senatorial_district_id": 76,
+  "representative_district_id": 255,
+  "lga_name": "Keana"
+ },
+ {
+  "lga_id": 531,
+  "state_id": 26,
+  "senatorial_district_id": 74,
+  "representative_district_id": 252,
+  "lga_name": "Keffi"
+ },
+ {
+  "lga_id": 532,
+  "state_id": 26,
+  "senatorial_district_id": 74,
+  "representative_district_id": 252,
+  "lga_name": "Kokona"
+ },
+ {
+  "lga_id": 533,
+  "state_id": 26,
+  "senatorial_district_id": 76,
+  "representative_district_id": 251,
+  "lga_name": "Lafia"
+ },
+ {
+  "lga_id": 534,
+  "state_id": 26,
+  "senatorial_district_id": 74,
+  "representative_district_id": 253,
+  "lga_name": "Nasarawa"
+ },
+ {
+  "lga_id": 535,
+  "state_id": 26,
+  "senatorial_district_id": 75,
+  "representative_district_id": 254,
+  "lga_name": "Nasarawa Eggon"
+ },
+ {
+  "lga_id": 536,
+  "state_id": 26,
+  "senatorial_district_id": 76,
+  "representative_district_id": 251,
+  "lga_name": "Obi"
+ },
+ {
+  "lga_id": 537,
+  "state_id": 26,
+  "senatorial_district_id": 74,
+  "representative_district_id": 253,
+  "lga_name": "Toto"
+ },
+ {
+  "lga_id": 538,
+  "state_id": 26,
+  "senatorial_district_id": 75,
+  "representative_district_id": 254,
+  "lga_name": "Wamba"
+ },
+ {
+  "lga_id": 539,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 264,
+  "lga_name": "Agaie"
+ },
+ {
+  "lga_id": 540,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 258,
+  "lga_name": "Agwara"
+ },
+ {
+  "lga_id": 541,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 257,
+  "lga_name": "Bida"
+ },
+ {
+  "lga_id": 542,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 258,
+  "lga_name": "Borgu"
+ },
+ {
+  "lga_id": 543,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 262,
+  "lga_name": "Bosso"
+ },
+ {
+  "lga_id": 544,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 265,
+  "lga_name": "Chanchaga"
+ },
+ {
+  "lga_id": 545,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 259,
+  "lga_name": "Edati"
+ },
+ {
+  "lga_id": 546,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 257,
+  "lga_name": "Gbako"
+ },
+ {
+  "lga_id": 547,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 263,
+  "lga_name": "Gurara"
+ },
+ {
+  "lga_id": 548,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 257,
+  "lga_name": "Katcha"
+ },
+ {
+  "lga_id": 549,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 260,
+  "lga_name": "Kontagora"
+ },
+ {
+  "lga_id": 550,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 264,
+  "lga_name": "Lapai"
+ },
+ {
+  "lga_id": 551,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 259,
+  "lga_name": "Lavun"
+ },
+ {
+  "lga_id": 552,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 256,
+  "lga_name": "Magama"
+ },
+ {
+  "lga_id": 553,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 260,
+  "lga_name": "Mariga"
+ },
+ {
+  "lga_id": 554,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 260,
+  "lga_name": "Mashe"
+ },
+ {
+  "lga_id": 555,
+  "state_id": 27,
+  "senatorial_district_id": 79,
+  "representative_district_id": 259,
+  "lga_name": "Mokwa"
+ },
+ {
+  "lga_id": 556,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 261,
+  "lga_name": "Munya"
+ },
+ {
+  "lga_id": 557,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 262,
+  "lga_name": "Paikoro"
+ },
+ {
+  "lga_id": 558,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 261,
+  "lga_name": "Rafi"
+ },
+ {
+  "lga_id": 559,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 256,
+  "lga_name": "Rijau"
+ },
+ {
+  "lga_id": 560,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 261,
+  "lga_name": "Shiroro"
+ },
+ {
+  "lga_id": 561,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 263,
+  "lga_name": "Suleja"
+ },
+ {
+  "lga_id": 562,
+  "state_id": 27,
+  "senatorial_district_id": 77,
+  "representative_district_id": 263,
+  "lga_name": "Tafa"
+ },
+ {
+  "lga_id": 563,
+  "state_id": 27,
+  "senatorial_district_id": 78,
+  "representative_district_id": 260,
+  "lga_name": "Wushishi"
+ },
+ {
+  "lga_id": 564,
+  "state_id": 28,
+  "senatorial_district_id": 80,
+  "representative_district_id": 266,
+  "lga_name": "Abeokuta North"
+ },
+ {
+  "lga_id": 565,
+  "state_id": 28,
+  "senatorial_district_id": 80,
+  "representative_district_id": 268,
+  "lga_name": "Abeokuta South"
+ },
+ {
+  "lga_id": 566,
+  "state_id": 28,
+  "senatorial_district_id": 82,
+  "representative_district_id": 270,
+  "lga_name": "Ado-Odo\/Ota"
+ },
+ {
+  "lga_id": 567,
+  "state_id": 28,
+  "senatorial_district_id": 82,
+  "representative_district_id": 274,
+  "lga_name": "Egbado North"
+ },
+ {
+  "lga_id": 568,
+  "state_id": 28,
+  "senatorial_district_id": 82,
+  "representative_district_id": 267,
+  "lga_name": "Egbado South"
+ },
+ {
+  "lga_id": 569,
+  "state_id": 28,
+  "senatorial_district_id": 80,
+  "representative_district_id": 273,
+  "lga_name": "Ewekoro"
+ },
+ {
+  "lga_id": 570,
+  "state_id": 28,
+  "senatorial_district_id": 80,
+  "representative_district_id": 273,
+  "lga_name": "Ifo"
+ },
+ {
+  "lga_id": 571,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 269,
+  "lga_name": "Ijebu East"
+ },
+ {
+  "lga_id": 572,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 269,
+  "lga_name": "Ijebu North"
+ },
+ {
+  "lga_id": 573,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 272,
+  "lga_name": "Ijebu North East"
+ },
+ {
+  "lga_id": 574,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 272,
+  "lga_name": "Ijebu Ode"
+ },
+ {
+  "lga_id": 575,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 271,
+  "lga_name": "Ikenne"
+ },
+ {
+  "lga_id": 576,
+  "state_id": 28,
+  "senatorial_district_id": 82,
+  "representative_district_id": 274,
+  "lga_name": "Imeko Afon"
+ },
+ {
+  "lga_id": 577,
+  "state_id": 28,
+  "senatorial_district_id": 82,
+  "representative_district_id": 267,
+  "lga_name": "Ipokia"
+ },
+ {
+  "lga_id": 578,
+  "state_id": 28,
+  "senatorial_district_id": 80,
+  "representative_district_id": 266,
+  "lga_name": "Obafemi-Owode"
+ },
+ {
+  "lga_id": 579,
+  "state_id": 28,
+  "senatorial_district_id": 80,
+  "representative_district_id": 266,
+  "lga_name": "Odeda"
+ },
+ {
+  "lga_id": 580,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 272,
+  "lga_name": "Odogbolu"
+ },
+ {
+  "lga_id": 581,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 269,
+  "lga_name": "Ogun Waterside"
+ },
+ {
+  "lga_id": 582,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 271,
+  "lga_name": "Remo North"
+ },
+ {
+  "lga_id": 583,
+  "state_id": 28,
+  "senatorial_district_id": 81,
+  "representative_district_id": 271,
+  "lga_name": "Shagamu"
+ },
+ {
+  "lga_id": 584,
+  "state_id": 29,
+  "senatorial_district_id": 83,
+  "representative_district_id": 279,
+  "lga_name": "Akoko North East"
+ },
+ {
+  "lga_id": 585,
+  "state_id": 29,
+  "senatorial_district_id": 83,
+  "representative_district_id": 279,
+  "lga_name": "Akoko North West"
+ },
+ {
+  "lga_id": 586,
+  "state_id": 29,
+  "senatorial_district_id": 83,
+  "representative_district_id": 278,
+  "lga_name": "Akoko South West"
+ },
+ {
+  "lga_id": 587,
+  "state_id": 29,
+  "senatorial_district_id": 83,
+  "representative_district_id": 278,
+  "lga_name": "Akoko South East"
+ },
+ {
+  "lga_id": 588,
+  "state_id": 29,
+  "senatorial_district_id": 84,
+  "representative_district_id": 275,
+  "lga_name": "Akure North"
+ },
+ {
+  "lga_id": 589,
+  "state_id": 29,
+  "senatorial_district_id": 84,
+  "representative_district_id": 275,
+  "lga_name": "Akure South"
+ },
+ {
+  "lga_id": 590,
+  "state_id": 29,
+  "senatorial_district_id": 85,
+  "representative_district_id": 283,
+  "lga_name": "Eseodo"
+ },
+ {
+  "lga_id": 591,
+  "state_id": 29,
+  "senatorial_district_id": 84,
+  "representative_district_id": 282,
+  "lga_name": "Idanre"
+ },
+ {
+  "lga_id": 592,
+  "state_id": 29,
+  "senatorial_district_id": 84,
+  "representative_district_id": 282,
+  "lga_name": "Ifedore"
+ },
+ {
+  "lga_id": 593,
+  "state_id": 29,
+  "senatorial_district_id": 85,
+  "representative_district_id": 283,
+  "lga_name": "Ilaje"
+ },
+ {
+  "lga_id": 594,
+  "state_id": 29,
+  "senatorial_district_id": 85,
+  "representative_district_id": 281,
+  "lga_name": "Ileoluji-Okeigbo"
+ },
+ {
+  "lga_id": 595,
+  "state_id": 29,
+  "senatorial_district_id": 85,
+  "representative_district_id": 280,
+  "lga_name": "Irele"
+ },
+ {
+  "lga_id": 596,
+  "state_id": 29,
+  "senatorial_district_id": 85,
+  "representative_district_id": 281,
+  "lga_name": "Odigbo"
+ },
+ {
+  "lga_id": 597,
+  "state_id": 29,
+  "senatorial_district_id": 85,
+  "representative_district_id": 280,
+  "lga_name": "Okitipupa"
+ },
+ {
+  "lga_id": 598,
+  "state_id": 29,
+  "senatorial_district_id": 84,
+  "representative_district_id": 277,
+  "lga_name": "Ondo East"
+ },
+ {
+  "lga_id": 599,
+  "state_id": 29,
+  "senatorial_district_id": 84,
+  "representative_district_id": 277,
+  "lga_name": "Ondo West"
+ },
+ {
+  "lga_id": 600,
+  "state_id": 29,
+  "senatorial_district_id": 83,
+  "representative_district_id": 276,
+  "lga_name": "Ose"
+ },
+ {
+  "lga_id": 601,
+  "state_id": 29,
+  "senatorial_district_id": 83,
+  "representative_district_id": 276,
+  "lga_name": "Owo"
+ },
+ {
+  "lga_id": 602,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 292,
+  "lga_name": "Atakunmosa East"
+ },
+ {
+  "lga_id": 603,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 292,
+  "lga_name": "Atakunmosa West"
+ },
+ {
+  "lga_id": 604,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 287,
+  "lga_name": "Ayedaade"
+ },
+ {
+  "lga_id": 605,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 288,
+  "lga_name": "Ayedire"
+ },
+ {
+  "lga_id": 606,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 286,
+  "lga_name": "Boluwaduro"
+ },
+ {
+  "lga_id": 607,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 291,
+  "lga_name": "Boripe"
+ },
+ {
+  "lga_id": 608,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 285,
+  "lga_name": "Ede North"
+ },
+ {
+  "lga_id": 609,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 285,
+  "lga_name": "Ede South"
+ },
+ {
+  "lga_id": 610,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 290,
+  "lga_name": "Ife Central"
+ },
+ {
+  "lga_id": 611,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 290,
+  "lga_name": "Ife East"
+ },
+ {
+  "lga_id": 612,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 290,
+  "lga_name": "Ife North"
+ },
+ {
+  "lga_id": 613,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 290,
+  "lga_name": "Ife South"
+ },
+ {
+  "lga_id": 614,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 285,
+  "lga_name": "Egbedore"
+ },
+ {
+  "lga_id": 615,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 285,
+  "lga_name": "Ejigbo"
+ },
+ {
+  "lga_id": 616,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 286,
+  "lga_name": "Ifedayo"
+ },
+ {
+  "lga_id": 617,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 291,
+  "lga_name": "Ifelodun"
+ },
+ {
+  "lga_id": 618,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 286,
+  "lga_name": "Illa"
+ },
+ {
+  "lga_id": 619,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 292,
+  "lga_name": "Ilesha East"
+ },
+ {
+  "lga_id": 620,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 292,
+  "lga_name": "Ilesha West"
+ },
+ {
+  "lga_id": 621,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 293,
+  "lga_name": "Irepodun"
+ },
+ {
+  "lga_id": 622,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 287,
+  "lga_name": "Irewole"
+ },
+ {
+  "lga_id": 623,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 287,
+  "lga_name": "Isokan"
+ },
+ {
+  "lga_id": 624,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 288,
+  "lga_name": "Iwo"
+ },
+ {
+  "lga_id": 625,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 294,
+  "lga_name": "Obokun"
+ },
+ {
+  "lga_id": 626,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 291,
+  "lga_name": "Odo-Otin"
+ },
+ {
+  "lga_id": 627,
+  "state_id": 30,
+  "senatorial_district_id": 88,
+  "representative_district_id": 288,
+  "lga_name": "Ola-Oluwa"
+ },
+ {
+  "lga_id": 628,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 293,
+  "lga_name": "Olorunda"
+ },
+ {
+  "lga_id": 629,
+  "state_id": 30,
+  "senatorial_district_id": 87,
+  "representative_district_id": 294,
+  "lga_name": "Oriade"
+ },
+ {
+  "lga_id": 630,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 293,
+  "lga_name": "Orolu"
+ },
+ {
+  "lga_id": 631,
+  "state_id": 30,
+  "senatorial_district_id": 86,
+  "representative_district_id": 293,
+  "lga_name": "Osogbo"
+ },
+ {
+  "lga_id": 632,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 295,
+  "lga_name": "Afijio"
+ },
+ {
+  "lga_id": 633,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 301,
+  "lga_name": "Akinyele"
+ },
+ {
+  "lga_id": 634,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 295,
+  "lga_name": "Atiba"
+ },
+ {
+  "lga_id": 635,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 296,
+  "lga_name": "Atigbo"
+ },
+ {
+  "lga_id": 636,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 299,
+  "lga_name": "Egbeda"
+ },
+ {
+  "lga_id": 637,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 298,
+  "lga_name": "Ibadan North"
+ },
+ {
+  "lga_id": 638,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 297,
+  "lga_name": "Ibadan North-East"
+ },
+ {
+  "lga_id": 639,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 304,
+  "lga_name": "Ibadan North West"
+ },
+ {
+  "lga_id": 640,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 297,
+  "lga_name": "Ibadan South-East"
+ },
+ {
+  "lga_id": 641,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 304,
+  "lga_name": "Ibadan South West"
+ },
+ {
+  "lga_id": 642,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 305,
+  "lga_name": "Ibarapa Central"
+ },
+ {
+  "lga_id": 643,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 302,
+  "lga_name": "Ibarapa East"
+ },
+ {
+  "lga_id": 644,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 305,
+  "lga_name": "Ibarapa North"
+ },
+ {
+  "lga_id": 645,
+  "state_id": 31,
+  "senatorial_district_id": 91,
+  "representative_district_id": 302,
+  "lga_name": "Ido"
+ },
+ {
+  "lga_id": 646,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 308,
+  "lga_name": "Irepo"
+ },
+ {
+  "lga_id": 647,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 300,
+  "lga_name": "Iseyin"
+ },
+ {
+  "lga_id": 648,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 300,
+  "lga_name": "Itesiwaju"
+ },
+ {
+  "lga_id": 649,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 300,
+  "lga_name": "Iwajowa"
+ },
+ {
+  "lga_id": 650,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 300,
+  "lga_name": "Kajola"
+ },
+ {
+  "lga_id": 651,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 301,
+  "lga_name": "Lagelu"
+ },
+ {
+  "lga_id": 652,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 307,
+  "lga_name": "Ogbomosho North"
+ },
+ {
+  "lga_id": 653,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 307,
+  "lga_name": "Ogbomosho South"
+ },
+ {
+  "lga_id": 654,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 306,
+  "lga_name": "Ogo-Oluwa"
+ },
+ {
+  "lga_id": 655,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 308,
+  "lga_name": "Olorunsogo"
+ },
+ {
+  "lga_id": 656,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 303,
+  "lga_name": "Oluyole"
+ },
+ {
+  "lga_id": 657,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 299,
+  "lga_name": "Ona-Ara"
+ },
+ {
+  "lga_id": 658,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 308,
+  "lga_name": "Orelope"
+ },
+ {
+  "lga_id": 659,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 307,
+  "lga_name": "Orire"
+ },
+ {
+  "lga_id": 660,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 295,
+  "lga_name": "Oyo West"
+ },
+ {
+  "lga_id": 661,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 295,
+  "lga_name": "Oyo East"
+ },
+ {
+  "lga_id": 662,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 296,
+  "lga_name": "Saki East"
+ },
+ {
+  "lga_id": 663,
+  "state_id": 31,
+  "senatorial_district_id": 90,
+  "representative_district_id": 296,
+  "lga_name": "Saki West"
+ },
+ {
+  "lga_id": 664,
+  "state_id": 31,
+  "senatorial_district_id": 89,
+  "representative_district_id": 306,
+  "lga_name": "Surulere"
+ },
+ {
+  "lga_id": 665,
+  "state_id": 32,
+  "senatorial_district_id": 93,
+  "representative_district_id": 316,
+  "lga_name": "Bokkos"
+ },
+ {
+  "lga_id": 666,
+  "state_id": 32,
+  "senatorial_district_id": 94,
+  "representative_district_id": 314,
+  "lga_name": "Barkin Ladi"
+ },
+ {
+  "lga_id": 667,
+  "state_id": 32,
+  "senatorial_district_id": 94,
+  "representative_district_id": 310,
+  "lga_name": "Bassa"
+ },
+ {
+  "lga_id": 668,
+  "state_id": 32,
+  "senatorial_district_id": 94,
+  "representative_district_id": 312,
+  "lga_name": "Jos East"
+ },
+ {
+  "lga_id": 669,
+  "state_id": 32,
+  "senatorial_district_id": 94,
+  "representative_district_id": 310,
+  "lga_name": "Jos North"
+ },
+ {
+  "lga_id": 670,
+  "state_id": 32,
+  "senatorial_district_id": 94,
+  "representative_district_id": 312,
+  "lga_name": "Jos South"
+ },
+ {
+  "lga_id": 671,
+  "state_id": 32,
+  "senatorial_district_id": 93,
+  "representative_district_id": 309,
+  "lga_name": "Kanam"
+ },
+ {
+  "lga_id": 672,
+  "state_id": 32,
+  "senatorial_district_id": 93,
+  "representative_district_id": 309,
+  "lga_name": "Kanke"
+ },
+ {
+  "lga_id": 673,
+  "state_id": 32,
+  "senatorial_district_id": 92,
+  "representative_district_id": 313,
+  "lga_name": "Langtang South"
+ },
+ {
+  "lga_id": 674,
+  "state_id": 32,
+  "senatorial_district_id": 92,
+  "representative_district_id": 313,
+  "lga_name": "Langtang North"
+ },
+ {
+  "lga_id": 675,
+  "state_id": 32,
+  "senatorial_district_id": 93,
+  "representative_district_id": 316,
+  "lga_name": "Mangu"
+ },
+ {
+  "lga_id": 676,
+  "state_id": 32,
+  "senatorial_district_id": 92,
+  "representative_district_id": 311,
+  "lga_name": "Mikang"
+ },
+ {
+  "lga_id": 677,
+  "state_id": 32,
+  "senatorial_district_id": 93,
+  "representative_district_id": 309,
+  "lga_name": "Pankshin"
+ },
+ {
+  "lga_id": 678,
+  "state_id": 32,
+  "senatorial_district_id": 92,
+  "representative_district_id": 311,
+  "lga_name": "Qua'an Pan"
+ },
+ {
+  "lga_id": 679,
+  "state_id": 32,
+  "senatorial_district_id": 94,
+  "representative_district_id": 314,
+  "lga_name": "Riyom"
+ },
+ {
+  "lga_id": 680,
+  "state_id": 32,
+  "senatorial_district_id": 92,
+  "representative_district_id": 311,
+  "lga_name": "Shendam"
+ },
+ {
+  "lga_id": 681,
+  "state_id": 32,
+  "senatorial_district_id": 92,
+  "representative_district_id": 315,
+  "lga_name": "Wase"
+ },
+ {
+  "lga_id": 682,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 326,
+  "lga_name": "Abua\/Odual"
+ },
+ {
+  "lga_id": 683,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 326,
+  "lga_name": "Ahoada East"
+ },
+ {
+  "lga_id": 684,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 320,
+  "lga_name": "Ahoada-West"
+ },
+ {
+  "lga_id": 685,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 322,
+  "lga_name": "Akuku-Toru"
+ },
+ {
+  "lga_id": 686,
+  "state_id": 33,
+  "senatorial_district_id": 97,
+  "representative_district_id": 329,
+  "lga_name": "Andoni"
+ },
+ {
+  "lga_id": 687,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 322,
+  "lga_name": "Asari-Toru"
+ },
+ {
+  "lga_id": 688,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 317,
+  "lga_name": "Bonny"
+ },
+ {
+  "lga_id": 689,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 317,
+  "lga_name": "Degema"
+ },
+ {
+  "lga_id": 690,
+  "state_id": 33,
+  "senatorial_district_id": 97,
+  "representative_district_id": 325,
+  "lga_name": "Eleme"
+ },
+ {
+  "lga_id": 691,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 319,
+  "lga_name": "Emohua"
+ },
+ {
+  "lga_id": 692,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 324,
+  "lga_name": "Etche"
+ },
+ {
+  "lga_id": 693,
+  "state_id": 33,
+  "senatorial_district_id": 97,
+  "representative_district_id": 323,
+  "lga_name": "Gokana"
+ },
+ {
+  "lga_id": 694,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 319,
+  "lga_name": "Ikwerre"
+ },
+ {
+  "lga_id": 695,
+  "state_id": 33,
+  "senatorial_district_id": 97,
+  "representative_district_id": 323,
+  "lga_name": "Khana"
+ },
+ {
+  "lga_id": 696,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 327,
+  "lga_name": "Obio\/Akpor"
+ },
+ {
+  "lga_id": 697,
+  "state_id": 33,
+  "senatorial_district_id": 96,
+  "representative_district_id": 320,
+  "lga_name": "Ogba-Egbema-Ndoni"
+ },
+ {
+  "lga_id": 698,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 318,
+  "lga_name": "Ogu-Bolo"
+ },
+ {
+  "lga_id": 699,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 318,
+  "lga_name": "Okrika"
+ },
+ {
+  "lga_id": 700,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 324,
+  "lga_name": "Omuma"
+ },
+ {
+  "lga_id": 701,
+  "state_id": 33,
+  "senatorial_district_id": 97,
+  "representative_district_id": 329,
+  "lga_name": "Opobo\/Nkoro"
+ },
+ {
+  "lga_id": 702,
+  "state_id": 33,
+  "senatorial_district_id": 97,
+  "representative_district_id": 325,
+  "lga_name": "Oyigbo"
+ },
+ {
+  "lga_id": 703,
+  "state_id": 33,
+  "senatorial_district_id": 95,
+  "representative_district_id": 321,
+  "lga_name": "Port Harcourt"
+ },
+ {
+  "lga_id": 704,
+  "state_id": 33,
+  "senatorial_district_id": 97,
+  "representative_district_id": 325,
+  "lga_name": "Tai"
+ },
+ {
+  "lga_id": 705,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 331,
+  "lga_name": "Binji"
+ },
+ {
+  "lga_id": 706,
+  "state_id": 34,
+  "senatorial_district_id": 100,
+  "representative_district_id": 339,
+  "lga_name": "Bodinga"
+ },
+ {
+  "lga_id": 707,
+  "state_id": 34,
+  "senatorial_district_id": 100,
+  "representative_district_id": 339,
+  "lga_name": "Dange-Shuni"
+ },
+ {
+  "lga_id": 708,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 338,
+  "lga_name": "Gada"
+ },
+ {
+  "lga_id": 709,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 338,
+  "lga_name": "Goronyo"
+ },
+ {
+  "lga_id": 710,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 336,
+  "lga_name": "Gudu"
+ },
+ {
+  "lga_id": 711,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 334,
+  "lga_name": "Gwadabawa"
+ },
+ {
+  "lga_id": 712,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 334,
+  "lga_name": "Ilella"
+ },
+ {
+  "lga_id": 713,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 333,
+  "lga_name": "Isa"
+ },
+ {
+  "lga_id": 714,
+  "state_id": 34,
+  "senatorial_district_id": 100,
+  "representative_district_id": 337,
+  "lga_name": "Kebbe"
+ },
+ {
+  "lga_id": 715,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 335,
+  "lga_name": "Kware"
+ },
+ {
+  "lga_id": 716,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 332,
+  "lga_name": "Rabah"
+ },
+ {
+  "lga_id": 717,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 333,
+  "lga_name": "Sabon-Birni"
+ },
+ {
+  "lga_id": 718,
+  "state_id": 34,
+  "senatorial_district_id": 100,
+  "representative_district_id": 340,
+  "lga_name": "Shagari"
+ },
+ {
+  "lga_id": 719,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 331,
+  "lga_name": "Silame"
+ },
+ {
+  "lga_id": 720,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 330,
+  "lga_name": "Sokoto North"
+ },
+ {
+  "lga_id": 721,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 330,
+  "lga_name": "Sokoto South"
+ },
+ {
+  "lga_id": 722,
+  "state_id": 34,
+  "senatorial_district_id": 100,
+  "representative_district_id": 337,
+  "lga_name": "Tambuwa"
+ },
+ {
+  "lga_id": 723,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 336,
+  "lga_name": "Tangaza"
+ },
+ {
+  "lga_id": 724,
+  "state_id": 34,
+  "senatorial_district_id": 100,
+  "representative_district_id": 339,
+  "lga_name": "Tureta"
+ },
+ {
+  "lga_id": 725,
+  "state_id": 34,
+  "senatorial_district_id": 98,
+  "representative_district_id": 335,
+  "lga_name": "Wamakko"
+ },
+ {
+  "lga_id": 726,
+  "state_id": 34,
+  "senatorial_district_id": 99,
+  "representative_district_id": 332,
+  "lga_name": "Wurno"
+ },
+ {
+  "lga_id": 727,
+  "state_id": 34,
+  "senatorial_district_id": 100,
+  "representative_district_id": 340,
+  "lga_name": "Yabo"
+ },
+ {
+  "lga_id": 728,
+  "state_id": 35,
+  "senatorial_district_id": 101,
+  "representative_district_id": 345,
+  "lga_name": "Ardo-Kola"
+ },
+ {
+  "lga_id": 729,
+  "state_id": 35,
+  "senatorial_district_id": 102,
+  "representative_district_id": 346,
+  "lga_name": "Bali"
+ },
+ {
+  "lga_id": 730,
+  "state_id": 35,
+  "senatorial_district_id": 103,
+  "representative_district_id": 341,
+  "lga_name": "Donga"
+ },
+ {
+  "lga_id": 731,
+  "state_id": 35,
+  "senatorial_district_id": 102,
+  "representative_district_id": 342,
+  "lga_name": "Gashaka"
+ },
+ {
+  "lga_id": 732,
+  "state_id": 35,
+  "senatorial_district_id": 102,
+  "representative_district_id": 346,
+  "lga_name": "Gassol"
+ },
+ {
+  "lga_id": 733,
+  "state_id": 35,
+  "senatorial_district_id": 103,
+  "representative_district_id": 344,
+  "lga_name": "Ibi"
+ },
+ {
+  "lga_id": 734,
+  "state_id": 35,
+  "senatorial_district_id": 101,
+  "representative_district_id": 343,
+  "lga_name": "Jalingo"
+ },
+ {
+  "lga_id": 735,
+  "state_id": 35,
+  "senatorial_district_id": 101,
+  "representative_district_id": 345,
+  "lga_name": "Karim-Lamido"
+ },
+ {
+  "lga_id": 736,
+  "state_id": 35,
+  "senatorial_district_id": 102,
+  "representative_district_id": 342,
+  "lga_name": "Kurmi"
+ },
+ {
+  "lga_id": 737,
+  "state_id": 35,
+  "senatorial_district_id": 101,
+  "representative_district_id": 345,
+  "lga_name": "Lau"
+ },
+ {
+  "lga_id": 738,
+  "state_id": 35,
+  "senatorial_district_id": 102,
+  "representative_district_id": 342,
+  "lga_name": "Sardauna"
+ },
+ {
+  "lga_id": 739,
+  "state_id": 35,
+  "senatorial_district_id": 103,
+  "representative_district_id": 341,
+  "lga_name": "Takum"
+ },
+ {
+  "lga_id": 740,
+  "state_id": 35,
+  "senatorial_district_id": 103,
+  "representative_district_id": 341,
+  "lga_name": "Ussa"
+ },
+ {
+  "lga_id": 741,
+  "state_id": 35,
+  "senatorial_district_id": 103,
+  "representative_district_id": 344,
+  "lga_name": "Wukari"
+ },
+ {
+  "lga_id": 742,
+  "state_id": 35,
+  "senatorial_district_id": 101,
+  "representative_district_id": 343,
+  "lga_name": "Yorro"
+ },
+ {
+  "lga_id": 743,
+  "state_id": 35,
+  "senatorial_district_id": 101,
+  "representative_district_id": 343,
+  "lga_name": "Zing"
+ },
+ {
+  "lga_id": 744,
+  "state_id": 36,
+  "senatorial_district_id": 104,
+  "representative_district_id": 352,
+  "lga_name": "Bade"
+ },
+ {
+  "lga_id": 745,
+  "state_id": 36,
+  "senatorial_district_id": 106,
+  "representative_district_id": 349,
+  "lga_name": "Bursari"
+ },
+ {
+  "lga_id": 746,
+  "state_id": 36,
+  "senatorial_district_id": 105,
+  "representative_district_id": 350,
+  "lga_name": "Damaturu"
+ },
+ {
+  "lga_id": 747,
+  "state_id": 36,
+  "senatorial_district_id": 105,
+  "representative_district_id": 348,
+  "lga_name": "Fika"
+ },
+ {
+  "lga_id": 748,
+  "state_id": 36,
+  "senatorial_district_id": 105,
+  "representative_district_id": 348,
+  "lga_name": "Fune"
+ },
+ {
+  "lga_id": 749,
+  "state_id": 36,
+  "senatorial_district_id": 106,
+  "representative_district_id": 349,
+  "lga_name": "Geidam"
+ },
+ {
+  "lga_id": 750,
+  "state_id": 36,
+  "senatorial_district_id": 106,
+  "representative_district_id": 350,
+  "lga_name": "Gujba"
+ },
+ {
+  "lga_id": 751,
+  "state_id": 36,
+  "senatorial_district_id": 106,
+  "representative_district_id": 350,
+  "lga_name": "Gulani"
+ },
+ {
+  "lga_id": 752,
+  "state_id": 36,
+  "senatorial_district_id": 104,
+  "representative_district_id": 352,
+  "lga_name": "Jakusko"
+ },
+ {
+  "lga_id": 753,
+  "state_id": 36,
+  "senatorial_district_id": 104,
+  "representative_district_id": 347,
+  "lga_name": "Karasuwa"
+ },
+ {
+  "lga_id": 754,
+  "state_id": 36,
+  "senatorial_district_id": 104,
+  "representative_district_id": 347,
+  "lga_name": "Machina"
+ },
+ {
+  "lga_id": 755,
+  "state_id": 36,
+  "senatorial_district_id": 105,
+  "representative_district_id": 351,
+  "lga_name": "Nangere"
+ },
+ {
+  "lga_id": 756,
+  "state_id": 36,
+  "senatorial_district_id": 104,
+  "representative_district_id": 347,
+  "lga_name": "Nguru"
+ },
+ {
+  "lga_id": 757,
+  "state_id": 36,
+  "senatorial_district_id": 105,
+  "representative_district_id": 351,
+  "lga_name": "Potiskum"
+ },
+ {
+  "lga_id": 758,
+  "state_id": 36,
+  "senatorial_district_id": 106,
+  "representative_district_id": 350,
+  "lga_name": "Tarmuwa"
+ },
+ {
+  "lga_id": 759,
+  "state_id": 36,
+  "senatorial_district_id": 106,
+  "representative_district_id": 349,
+  "lga_name": "Yunusari"
+ },
+ {
+  "lga_id": 760,
+  "state_id": 36,
+  "senatorial_district_id": 104,
+  "representative_district_id": 347,
+  "lga_name": "Yusufari"
+ },
+ {
+  "lga_id": 761,
+  "state_id": 37,
+  "senatorial_district_id": 107,
+  "representative_district_id": 353,
+  "lga_name": "Anka"
+ },
+ {
+  "lga_id": 762,
+  "state_id": 37,
+  "senatorial_district_id": 107,
+  "representative_district_id": 356,
+  "lga_name": "Bakura"
+ },
+ {
+  "lga_id": 763,
+  "state_id": 37,
+  "senatorial_district_id": 109,
+  "representative_district_id": 357,
+  "lga_name": "Birnin-Magaji"
+ },
+ {
+  "lga_id": 764,
+  "state_id": 37,
+  "senatorial_district_id": 107,
+  "representative_district_id": 359,
+  "lga_name": "Bukkuyum"
+ },
+ {
+  "lga_id": 765,
+  "state_id": 37,
+  "senatorial_district_id": 108,
+  "representative_district_id": 354,
+  "lga_name": "Bungudu"
+ },
+ {
+  "lga_id": 766,
+  "state_id": 37,
+  "senatorial_district_id": 107,
+  "representative_district_id": 359,
+  "lga_name": "Gummi"
+ },
+ {
+  "lga_id": 767,
+  "state_id": 37,
+  "senatorial_district_id": 108,
+  "representative_district_id": 358,
+  "lga_name": "Gusau"
+ },
+ {
+  "lga_id": 768,
+  "state_id": 37,
+  "senatorial_district_id": 109,
+  "representative_district_id": 357,
+  "lga_name": "Kaura-Namoda"
+ },
+ {
+  "lga_id": 769,
+  "state_id": 37,
+  "senatorial_district_id": 107,
+  "representative_district_id": 356,
+  "lga_name": "Maradun"
+ },
+ {
+  "lga_id": 770,
+  "state_id": 37,
+  "senatorial_district_id": 108,
+  "representative_district_id": 354,
+  "lga_name": "Maru"
+ },
+ {
+  "lga_id": 771,
+  "state_id": 37,
+  "senatorial_district_id": 109,
+  "representative_district_id": 355,
+  "lga_name": "Shinkafi"
+ },
+ {
+  "lga_id": 772,
+  "state_id": 37,
+  "senatorial_district_id": 109,
+  "representative_district_id": 353,
+  "lga_name": "Talata Marafa"
+ },
+ {
+  "lga_id": 773,
+  "state_id": 37,
+  "senatorial_district_id": 108,
+  "representative_district_id": 358,
+  "lga_name": "Tsafe"
+ },
+ {
+  "lga_id": 774,
+  "state_id": 37,
+  "senatorial_district_id": 109,
+  "representative_district_id": 355,
+  "lga_name": "Zurmi"
+ }
+],
+"representative_district_tbl":[
+ {
+  "district_id": 1,
+  "state_id": 15,
+  "district_name": "Kuje\/Abaji\/Gwagwalada\/Kwali"
+ },
+ {
+  "district_id": 2,
+  "state_id": 15,
+  "district_name": "Abuja Municipal\/Bwari"
+ },
+ {
+  "district_id": 3,
+  "state_id": 1,
+  "district_name": "Ikwuano\/Umuahia North\/Umuahia South"
+ },
+ {
+  "district_id": 4,
+  "state_id": 1,
+  "district_name": "Bende"
+ },
+ {
+  "district_id": 5,
+  "state_id": 1,
+  "district_name": "Isuikwuato\/Umunneochi"
+ },
+ {
+  "district_id": 6,
+  "state_id": 1,
+  "district_name": "Arochukwu\/Ohafia"
+ },
+ {
+  "district_id": 7,
+  "state_id": 1,
+  "district_name": "Aba North\/Aba South"
+ },
+ {
+  "district_id": 8,
+  "state_id": 1,
+  "district_name": "Ukwa East\/Ukwa West"
+ },
+ {
+  "district_id": 9,
+  "state_id": 1,
+  "district_name": "Isiala Ngwa North\/Isiala Ngwa South"
+ },
+ {
+  "district_id": 10,
+  "state_id": 1,
+  "district_name": "Obingwa\/Osisioma\/Ugwunagbo"
+ },
+ {
+  "district_id": 11,
+  "state_id": 2,
+  "district_name": "Jada\/Ganye\/Mayo Belwa\/Toungo"
+ },
+ {
+  "district_id": 12,
+  "state_id": 2,
+  "district_name": "Guyuk\/Shelleng"
+ },
+ {
+  "district_id": 13,
+  "state_id": 2,
+  "district_name": "Hong\/Gombi"
+ },
+ {
+  "district_id": 14,
+  "state_id": 2,
+  "district_name": "Mubi North\/Mubi South\/Maiha"
+ },
+ {
+  "district_id": 15,
+  "state_id": 2,
+  "district_name": "Fufore\/Song"
+ },
+ {
+  "district_id": 16,
+  "state_id": 2,
+  "district_name": "Michika\/Madagali"
+ },
+ {
+  "district_id": 17,
+  "state_id": 2,
+  "district_name": "Demsa\/Numan\/Lamurde"
+ },
+ {
+  "district_id": 18,
+  "state_id": 2,
+  "district_name": "Yola North\/Yola South\/Girei"
+ },
+ {
+  "district_id": 19,
+  "state_id": 3,
+  "district_name": "Ukanafun\/Orukanam"
+ },
+ {
+  "district_id": 20,
+  "state_id": 3,
+  "district_name": "Etinan\/Nsit Ibom\/Nsit Ubium"
+ },
+ {
+  "district_id": 21,
+  "state_id": 3,
+  "district_name": "Itu\/Ibiono Ibom"
+ },
+ {
+  "district_id": 22,
+  "state_id": 3,
+  "district_name": "Eket\/Esit Eket\/Onna\/Ibeno"
+ },
+ {
+  "district_id": 23,
+  "state_id": 3,
+  "district_name": "Ikot Ekpene\/Essien Udim\/Obot Akara"
+ },
+ {
+  "district_id": 24,
+  "state_id": 3,
+  "district_name": "Abak\/Etim Ekpo\/Ika"
+ },
+ {
+  "district_id": 25,
+  "state_id": 3,
+  "district_name": "Ikono\/Ini"
+ },
+ {
+  "district_id": 26,
+  "state_id": 3,
+  "district_name": "Oron\/Mbo\/Okobo\/UrueOffong\/Oruko\/Udung-Uko"
+ },
+ {
+  "district_id": 27,
+  "state_id": 3,
+  "district_name": "Ikot Abasi\/Mkpat Enin\/Eastern Obolo"
+ },
+ {
+  "district_id": 28,
+  "state_id": 3,
+  "district_name": "Uyo\/Uruan\/Nsit Ata\/Ibeskip Asutan"
+ },
+ {
+  "district_id": 29,
+  "state_id": 4,
+  "district_name": "Anambra East\/Anambra West"
+ },
+ {
+  "district_id": 30,
+  "state_id": 4,
+  "district_name": "Anaocha\/Njikoka\/Dunukofia"
+ },
+ {
+  "district_id": 31,
+  "state_id": 4,
+  "district_name": "Aguta"
+ },
+ {
+  "district_id": 32,
+  "state_id": 4,
+  "district_name": "Nnewi North\/Nnewi South\/Ekwusigo"
+ },
+ {
+  "district_id": 33,
+  "state_id": 4,
+  "district_name": "Onitsha North\/Onitsha South"
+ },
+ {
+  "district_id": 34,
+  "state_id": 4,
+  "district_name": "Awka North\/Awka South"
+ },
+ {
+  "district_id": 35,
+  "state_id": 4,
+  "district_name": "Orumba North\/Orumba South"
+ },
+ {
+  "district_id": 36,
+  "state_id": 4,
+  "district_name": "Ihiala"
+ },
+ {
+  "district_id": 37,
+  "state_id": 4,
+  "district_name": "Oyi\/Ayamelum"
+ },
+ {
+  "district_id": 38,
+  "state_id": 4,
+  "district_name": "Idemili North\/Idemili South"
+ },
+ {
+  "district_id": 39,
+  "state_id": 4,
+  "district_name": "Ogbaru"
+ },
+ {
+  "district_id": 40,
+  "state_id": 5,
+  "district_name": "Misau\/Dambam"
+ },
+ {
+  "district_id": 41,
+  "state_id": 5,
+  "district_name": "Zaki"
+ },
+ {
+  "district_id": 42,
+  "state_id": 5,
+  "district_name": "Katagum"
+ },
+ {
+  "district_id": 43,
+  "state_id": 5,
+  "district_name": "Bogoro\/Dass\/Tafawa Balewa"
+ },
+ {
+  "district_id": 44,
+  "state_id": 5,
+  "district_name": "Gamawa"
+ },
+ {
+  "district_id": 45,
+  "state_id": 5,
+  "district_name": "Jama'are\/Itas-Gadau"
+ },
+ {
+  "district_id": 46,
+  "state_id": 5,
+  "district_name": "Bauchi"
+ },
+ {
+  "district_id": 47,
+  "state_id": 5,
+  "district_name": "Darazo\/Gunjuwa"
+ },
+ {
+  "district_id": 48,
+  "state_id": 5,
+  "district_name": "Ningi\/Warji"
+ },
+ {
+  "district_id": 49,
+  "state_id": 5,
+  "district_name": "Shira\/Giade"
+ },
+ {
+  "district_id": 50,
+  "state_id": 5,
+  "district_name": "Toro"
+ },
+ {
+  "district_id": 51,
+  "state_id": 6,
+  "district_name": "Yenagoa\/Kolokuma\/Opokuma"
+ },
+ {
+  "district_id": 52,
+  "state_id": 6,
+  "district_name": "Ogbia"
+ },
+ {
+  "district_id": 53,
+  "state_id": 6,
+  "district_name": "Sagbama\/Ekeremor"
+ },
+ {
+  "district_id": 54,
+  "state_id": 6,
+  "district_name": "Southern Ijaw"
+ },
+ {
+  "district_id": 55,
+  "state_id": 6,
+  "district_name": "Brass\/Nembe"
+ },
+ {
+  "district_id": 56,
+  "state_id": 7,
+  "district_name": "Apa\/Agatu"
+ },
+ {
+  "district_id": 57,
+  "state_id": 7,
+  "district_name": "Kwande\/Ushongo"
+ },
+ {
+  "district_id": 58,
+  "state_id": 7,
+  "district_name": "Igede"
+ },
+ {
+  "district_id": 59,
+  "state_id": 7,
+  "district_name": "Vandeikya\/Konshisha"
+ },
+ {
+  "district_id": 60,
+  "state_id": 7,
+  "district_name": "Buruku"
+ },
+ {
+  "district_id": 61,
+  "state_id": 7,
+  "district_name": "Ado\/Obadigbo\/Opkokwu"
+ },
+ {
+  "district_id": 62,
+  "state_id": 7,
+  "district_name": "Katsina-Ala\/Ukum\/Logo"
+ },
+ {
+  "district_id": 63,
+  "state_id": 7,
+  "district_name": "Gboko\/Tarka"
+ },
+ {
+  "district_id": 64,
+  "state_id": 7,
+  "district_name": "Makurdi\/Guma"
+ },
+ {
+  "district_id": 65,
+  "state_id": 7,
+  "district_name": "Gwer East\/Gwer West"
+ },
+ {
+  "district_id": 66,
+  "state_id": 7,
+  "district_name": "Otukpo\/Ohimini"
+ },
+ {
+  "district_id": 67,
+  "state_id": 7,
+  "district_name": "Oju\/Obi"
+ },
+ {
+  "district_id": 68,
+  "state_id": 8,
+  "district_name": "Jere"
+ },
+ {
+  "district_id": 69,
+  "state_id": 8,
+  "district_name": "Bama\/Ngala\/Kalabalge"
+ },
+ {
+  "district_id": 70,
+  "state_id": 8,
+  "district_name": "Askira-Uba\/Hawul"
+ },
+ {
+  "district_id": 71,
+  "state_id": 8,
+  "district_name": "Dikwa\/Mafaf\/Konduga"
+ },
+ {
+  "district_id": 72,
+  "state_id": 8,
+  "district_name": "Kukawa\/Mobbar\/Abadam\/Guzamala"
+ },
+ {
+  "district_id": 73,
+  "state_id": 8,
+  "district_name": "Damboa\/Gwoza\/Chibok"
+ },
+ {
+  "district_id": 74,
+  "state_id": 8,
+  "district_name": "Monguno\/Marte\/Nganzai"
+ },
+ {
+  "district_id": 75,
+  "state_id": 8,
+  "district_name": "Biu\/Bayo\/Shani\/Kwaya Kusar"
+ },
+ {
+  "district_id": 76,
+  "state_id": 8,
+  "district_name": "Maiduguri (Metropolitan)"
+ },
+ {
+  "district_id": 77,
+  "state_id": 8,
+  "district_name": "Kaga\/Gubio\/Magumeri"
+ },
+ {
+  "district_id": 78,
+  "state_id": 9,
+  "district_name": "Calabar Municipal\/Odukpani"
+ },
+ {
+  "district_id": 79,
+  "state_id": 9,
+  "district_name": "Ogoja\/Yala"
+ },
+ {
+  "district_id": 80,
+  "state_id": 9,
+  "district_name": "Ikom\/Boki"
+ },
+ {
+  "district_id": 81,
+  "state_id": 9,
+  "district_name": "Yakurr\/Abi"
+ },
+ {
+  "district_id": 82,
+  "state_id": 9,
+  "district_name": "Bekwarra\/Obudu\/Obanliku"
+ },
+ {
+  "district_id": 83,
+  "state_id": 9,
+  "district_name": "Akpabuyo\/Bakassi\/Calabar South"
+ },
+ {
+  "district_id": 84,
+  "state_id": 9,
+  "district_name": "Akamkpa\/Biase"
+ },
+ {
+  "district_id": 85,
+  "state_id": 9,
+  "district_name": "Obubra\/Etung"
+ },
+ {
+  "district_id": 86,
+  "state_id": 10,
+  "district_name": "Ethiope East\/Ethiope West"
+ },
+ {
+  "district_id": 87,
+  "state_id": 10,
+  "district_name": "Ughelli North\/Ughelli South\/Udu"
+ },
+ {
+  "district_id": 88,
+  "state_id": 10,
+  "district_name": "Ndokwa East\/Ndokwa West\/Ukwani"
+ },
+ {
+  "district_id": 89,
+  "state_id": 10,
+  "district_name": "Opke\/Sapele\/Uvwie"
+ },
+ {
+  "district_id": 90,
+  "state_id": 10,
+  "district_name": "Isoko North\/Isoko South"
+ },
+ {
+  "district_id": 91,
+  "state_id": 10,
+  "district_name": "Burutu"
+ },
+ {
+  "district_id": 92,
+  "state_id": 10,
+  "district_name": "Warri"
+ },
+ {
+  "district_id": 93,
+  "state_id": 10,
+  "district_name": "Ika North East\/Ika South"
+ },
+ {
+  "district_id": 94,
+  "state_id": 10,
+  "district_name": "Aniocha North\/Aniocha South\/Oshimili North\/Oshimili South"
+ },
+ {
+  "district_id": 95,
+  "state_id": 10,
+  "district_name": "Bomadi\/Patani"
+ },
+ {
+  "district_id": 96,
+  "state_id": 11,
+  "district_name": "Ikwo\/Ezza South"
+ },
+ {
+  "district_id": 97,
+  "state_id": 11,
+  "district_name": "Ohaukwu\/Ebonyi"
+ },
+ {
+  "district_id": 98,
+  "state_id": 11,
+  "district_name": "Ezza North\/Ishielu"
+ },
+ {
+  "district_id": 99,
+  "state_id": 11,
+  "district_name": "Ivo\/Ohaozara\/Onicha"
+ },
+ {
+  "district_id": 100,
+  "state_id": 11,
+  "district_name": "Afikpo North\/Afikpo South"
+ },
+ {
+  "district_id": 101,
+  "state_id": 11,
+  "district_name": "Abakaliki\/Izzi"
+ },
+ {
+  "district_id": 102,
+  "state_id": 12,
+  "district_name": "Egor\/Ikpoba-okha"
+ },
+ {
+  "district_id": 103,
+  "state_id": 12,
+  "district_name": "Owan West\/Owan East"
+ },
+ {
+  "district_id": 104,
+  "state_id": 12,
+  "district_name": "Esan North-East\/Esan South-East"
+ },
+ {
+  "district_id": 105,
+  "state_id": 12,
+  "district_name": "Esan Central\/Esan West\/Igueben"
+ },
+ {
+  "district_id": 106,
+  "state_id": 12,
+  "district_name": "Ovia South-West\/Ovia North-East"
+ },
+ {
+  "district_id": 107,
+  "state_id": 12,
+  "district_name": "Akoko-Edo"
+ },
+ {
+  "district_id": 108,
+  "state_id": 12,
+  "district_name": "Etsako East\/Etsako West\/Etsako Central"
+ },
+ {
+  "district_id": 109,
+  "state_id": 12,
+  "district_name": "Orhionmwon\/Uhunmwode"
+ },
+ {
+  "district_id": 110,
+  "state_id": 12,
+  "district_name": "Oredo"
+ },
+ {
+  "district_id": 111,
+  "state_id": 13,
+  "district_name": "Ido\/Osi\/Moba\/Ilejeme "
+ },
+ {
+  "district_id": 112,
+  "state_id": 13,
+  "district_name": "Emure\/Gbonyin\/Ekiti East"
+ },
+ {
+  "district_id": 113,
+  "state_id": 13,
+  "district_name": "Ikole\/Oye"
+ },
+ {
+  "district_id": 114,
+  "state_id": 13,
+  "district_name": "Ijero\/Ekiti West\/Efon"
+ },
+ {
+  "district_id": 115,
+  "state_id": 13,
+  "district_name": "Ado Ekiti\/Irepodun-Ifelodun"
+ },
+ {
+  "district_id": 116,
+  "state_id": 13,
+  "district_name": "Ekiti South West\/Ikere\/Ise\/Orun"
+ },
+ {
+  "district_id": 117,
+  "state_id": 14,
+  "district_name": "Enugu North\/Enugu South"
+ },
+ {
+  "district_id": 118,
+  "state_id": 14,
+  "district_name": "Enugu East\/Isi-Uzo"
+ },
+ {
+  "district_id": 119,
+  "state_id": 14,
+  "district_name": "Ezeagu\/Udi"
+ },
+ {
+  "district_id": 120,
+  "state_id": 14,
+  "district_name": "Aninri\/Agwu\/Oji-uzo"
+ },
+ {
+  "district_id": 121,
+  "state_id": 14,
+  "district_name": "Igbo-Etiti\/Uzo-Uwani"
+ },
+ {
+  "district_id": 122,
+  "state_id": 14,
+  "district_name": "Nkanu East\/Nkanu West"
+ },
+ {
+  "district_id": 123,
+  "state_id": 14,
+  "district_name": "Nsukka\/Igbo-Eze South"
+ },
+ {
+  "district_id": 124,
+  "state_id": 16,
+  "district_name": "Akko"
+ },
+ {
+  "district_id": 125,
+  "state_id": 16,
+  "district_name": "Yamaltu-Deba"
+ },
+ {
+  "district_id": 126,
+  "state_id": 16,
+  "district_name": "Gombe\/Kwami\/Funakaye"
+ },
+ {
+  "district_id": 127,
+  "state_id": 16,
+  "district_name": "Kaltungo\/Shongom"
+ },
+ {
+  "district_id": 128,
+  "state_id": 16,
+  "district_name": "Akko Federal Constituency"
+ },
+ {
+  "district_id": 129,
+  "state_id": 16,
+  "district_name": "Dukku\/Nafada"
+ },
+ {
+  "district_id": 130,
+  "state_id": 16,
+  "district_name": "Balanga\/Billiri"
+ },
+ {
+  "district_id": 131,
+  "state_id": 17,
+  "district_name": "Aboh Mbaise\/Ngor Okpala"
+ },
+ {
+  "district_id": 132,
+  "state_id": 17,
+  "district_name": "Oguta\/Ohaji-Egbema\/Oru West"
+ },
+ {
+  "district_id": 133,
+  "state_id": 17,
+  "district_name": "Mbaitolu\/ikeduru"
+ },
+ {
+  "district_id": 134,
+  "state_id": 17,
+  "district_name": "Isu\/Njaba\/Nkwerre\/Nwangele"
+ },
+ {
+  "district_id": 135,
+  "state_id": 17,
+  "district_name": "Isiala Mbano\/Okigwe\/Onuimo"
+ },
+ {
+  "district_id": 136,
+  "state_id": 17,
+  "district_name": "Ahiazu Mbaise\/Ezinihitte"
+ },
+ {
+  "district_id": 137,
+  "state_id": 17,
+  "district_name": "Orlu\/Oru East\/Orsu"
+ },
+ {
+  "district_id": 138,
+  "state_id": 17,
+  "district_name": "Ideato North\/Ideato South"
+ },
+ {
+  "district_id": 139,
+  "state_id": 17,
+  "district_name": "Owerri Municipal\/Owerri North\/Owerri West"
+ },
+ {
+  "district_id": 140,
+  "state_id": 17,
+  "district_name": "Ehimembano\/Ihitte Uboma\/Obowo"
+ },
+ {
+  "district_id": 141,
+  "state_id": 18,
+  "district_name": "Hadejia\/Kafin Hausa\/Auyo"
+ },
+ {
+  "district_id": 142,
+  "state_id": 18,
+  "district_name": "Mallam Madori\/Kaugama"
+ },
+ {
+  "district_id": 143,
+  "state_id": 18,
+  "district_name": "Birnin-Kudu\/Buji"
+ },
+ {
+  "district_id": 144,
+  "state_id": 18,
+  "district_name": "Dutse\/Kiyawa"
+ },
+ {
+  "district_id": 145,
+  "state_id": 18,
+  "district_name": "Kazaure\/Roni\/Gwiwa\/Yankwashi"
+ },
+ {
+  "district_id": 146,
+  "state_id": 18,
+  "district_name": "Ringim\/Taura"
+ },
+ {
+  "district_id": 147,
+  "state_id": 18,
+  "district_name": "Gwaram"
+ },
+ {
+  "district_id": 148,
+  "state_id": 18,
+  "district_name": "Babura\/Garki"
+ },
+ {
+  "district_id": 149,
+  "state_id": 18,
+  "district_name": "Birniwa\/Guri\/Kiri-Kasamma"
+ },
+ {
+  "district_id": 150,
+  "state_id": 18,
+  "district_name": "Gumel\/Maigatari\/Sule Tankarkar\/Gagarawa"
+ },
+ {
+  "district_id": 151,
+  "state_id": 19,
+  "district_name": "Kauru"
+ },
+ {
+  "district_id": 152,
+  "state_id": 19,
+  "district_name": "Soba"
+ },
+ {
+  "district_id": 153,
+  "state_id": 19,
+  "district_name": "Chikun\/Kajuru"
+ },
+ {
+  "district_id": 154,
+  "state_id": 19,
+  "district_name": "Kaduna South"
+ },
+ {
+  "district_id": 155,
+  "state_id": 19,
+  "district_name": "Kachia\/Kagarko"
+ },
+ {
+  "district_id": 156,
+  "state_id": 19,
+  "district_name": "Ikara\/Kubau"
+ },
+ {
+  "district_id": 157,
+  "state_id": 19,
+  "district_name": "Sabon Gari"
+ },
+ {
+  "district_id": 158,
+  "state_id": 19,
+  "district_name": "Makarfi\/Kudan"
+ },
+ {
+  "district_id": 159,
+  "state_id": 19,
+  "district_name": "Kaura"
+ },
+ {
+  "district_id": 160,
+  "state_id": 19,
+  "district_name": "Kaduna North"
+ },
+ {
+  "district_id": 161,
+  "state_id": 19,
+  "district_name": "Jemaa\/Sanga"
+ },
+ {
+  "district_id": 162,
+  "state_id": 19,
+  "district_name": "Zangon Kataf\/Jaba"
+ },
+ {
+  "district_id": 163,
+  "state_id": 19,
+  "district_name": "Igabi"
+ },
+ {
+  "district_id": 164,
+  "state_id": 19,
+  "district_name": "Birnin-Gwari\/Giwa"
+ },
+ {
+  "district_id": 165,
+  "state_id": 19,
+  "district_name": "Zaria"
+ },
+ {
+  "district_id": 166,
+  "state_id": 19,
+  "district_name": "Lere"
+ },
+ {
+  "district_id": 167,
+  "state_id": 20,
+  "district_name": "Bagwai\/Shanono"
+ },
+ {
+  "district_id": 168,
+  "state_id": 20,
+  "district_name": "Rano\/Bunkure\/Kibiya"
+ },
+ {
+  "district_id": 169,
+  "state_id": 20,
+  "district_name": "Gezawa\/Gabasawa"
+ },
+ {
+  "district_id": 170,
+  "state_id": 20,
+  "district_name": "Alabasu\/Gaya\/Ajingi"
+ },
+ {
+  "district_id": 171,
+  "state_id": 20,
+  "district_name": "Tarauni"
+ },
+ {
+  "district_id": 172,
+  "state_id": 20,
+  "district_name": "Dambatta\/Makoda"
+ },
+ {
+  "district_id": 173,
+  "state_id": 20,
+  "district_name": "Nassarawa"
+ },
+ {
+  "district_id": 174,
+  "state_id": 20,
+  "district_name": "Gwale"
+ },
+ {
+  "district_id": 175,
+  "state_id": 20,
+  "district_name": "Wudil\/Garko"
+ },
+ {
+  "district_id": 176,
+  "state_id": 20,
+  "district_name": "Tudun-Wada\/Doguwa"
+ },
+ {
+  "district_id": 177,
+  "state_id": 20,
+  "district_name": "Tsanyawa\/Kunchi"
+ },
+ {
+  "district_id": 178,
+  "state_id": 20,
+  "district_name": "Fagge"
+ },
+ {
+  "district_id": 179,
+  "state_id": 20,
+  "district_name": "Kano Municipal"
+ },
+ {
+  "district_id": 180,
+  "state_id": 20,
+  "district_name": "Gwarzo\/Ikabo"
+ },
+ {
+  "district_id": 181,
+  "state_id": 20,
+  "district_name": "Bebeji\/Kiru"
+ },
+ {
+  "district_id": 182,
+  "state_id": 20,
+  "district_name": "Kura\/Madobi\/Garun Malam"
+ },
+ {
+  "district_id": 183,
+  "state_id": 20,
+  "district_name": "Kumbotso"
+ },
+ {
+  "district_id": 184,
+  "state_id": 20,
+  "district_name": "Bichi"
+ },
+ {
+  "district_id": 185,
+  "state_id": 20,
+  "district_name": "Karaye\/Rogo"
+ },
+ {
+  "district_id": 186,
+  "state_id": 20,
+  "district_name": "Dala"
+ },
+ {
+  "district_id": 187,
+  "state_id": 20,
+  "district_name": "Sumaila\/Takai"
+ },
+ {
+  "district_id": 188,
+  "state_id": 20,
+  "district_name": "Minjibir\/Ungogo"
+ },
+ {
+  "district_id": 189,
+  "state_id": 20,
+  "district_name": "Dawakin-Tofa\/Tofa\/Rimin Gado"
+ },
+ {
+  "district_id": 190,
+  "state_id": 20,
+  "district_name": "Dawakin Kudu\/Warawa"
+ },
+ {
+  "district_id": 191,
+  "state_id": 21,
+  "district_name": "Musawa\/Matazu"
+ },
+ {
+  "district_id": 192,
+  "state_id": 21,
+  "district_name": "Mani\/Bindawa"
+ },
+ {
+  "district_id": 193,
+  "state_id": 21,
+  "district_name": "Mashi\/Dutsi"
+ },
+ {
+  "district_id": 194,
+  "state_id": 21,
+  "district_name": "Bakori\/Danja"
+ },
+ {
+  "district_id": 195,
+  "state_id": 21,
+  "district_name": "Kankara\/Sabuwa\/Faskari"
+ },
+ {
+  "district_id": 196,
+  "state_id": 21,
+  "district_name": "Daura\/Sandamu\/MaiAdua"
+ },
+ {
+  "district_id": 197,
+  "state_id": 21,
+  "district_name": "Rimi\/Charanchi\/Batagarawa"
+ },
+ {
+  "district_id": 198,
+  "state_id": 21,
+  "district_name": "Funtua\/Dandume"
+ },
+ {
+  "district_id": 199,
+  "state_id": 21,
+  "district_name": "Kankia\/Ingawa\/Kusada"
+ },
+ {
+  "district_id": 200,
+  "state_id": 21,
+  "district_name": "Safana\/Dan musa\/Batsari"
+ },
+ {
+  "district_id": 201,
+  "state_id": 21,
+  "district_name": "Dutsin-ma\/Kurfi"
+ },
+ {
+  "district_id": 202,
+  "state_id": 21,
+  "district_name": "MalumFashi\/Kafur"
+ },
+ {
+  "district_id": 203,
+  "state_id": 21,
+  "district_name": "Kaita\/Jibia"
+ },
+ {
+  "district_id": 204,
+  "state_id": 21,
+  "district_name": "Baure\/Zango"
+ },
+ {
+  "district_id": 205,
+  "state_id": 22,
+  "district_name": "Bagudo\/Suru"
+ },
+ {
+  "district_id": 206,
+  "state_id": 22,
+  "district_name": "Argungu\/Augie"
+ },
+ {
+  "district_id": 207,
+  "state_id": 22,
+  "district_name": "Birnin Kebbi\/Kalgo\/Bunza"
+ },
+ {
+  "district_id": 208,
+  "state_id": 22,
+  "district_name": "Yauri\/Shanga\/Ngaski"
+ },
+ {
+  "district_id": 209,
+  "state_id": 22,
+  "district_name": "Gwandu\/Aliero\/Jega"
+ },
+ {
+  "district_id": 210,
+  "state_id": 22,
+  "district_name": "Maiyama\/Koko\/Besse"
+ },
+ {
+  "district_id": 211,
+  "state_id": 22,
+  "district_name": "Arewa\/Dandi"
+ },
+ {
+  "district_id": 212,
+  "state_id": 22,
+  "district_name": "Zuru\/Fakai\/Sakaba\/D\/Wasagu"
+ },
+ {
+  "district_id": 213,
+  "state_id": 23,
+  "district_name": "Dekina\/Bassa"
+ },
+ {
+  "district_id": 214,
+  "state_id": 23,
+  "district_name": "Yagba East\/Yagba West\/Mopa-muro"
+ },
+ {
+  "district_id": 215,
+  "state_id": 23,
+  "district_name": "Lokoja\/Koton Karfe\/Kogi"
+ },
+ {
+  "district_id": 216,
+  "state_id": 23,
+  "district_name": "Ajaokuta"
+ },
+ {
+  "district_id": 217,
+  "state_id": 23,
+  "district_name": "Okene\/Ogori-Magogo"
+ },
+ {
+  "district_id": 218,
+  "state_id": 23,
+  "district_name": "Adavi\/Okehi"
+ },
+ {
+  "district_id": 219,
+  "state_id": 23,
+  "district_name": "Ankpa\/Omala\/Olamaboro"
+ },
+ {
+  "district_id": 220,
+  "state_id": 23,
+  "district_name": "Idah\/Ibaji\/Igalamela\/Ofu"
+ },
+ {
+  "district_id": 221,
+  "state_id": 23,
+  "district_name": "Kabba\/Bunu\/Ijumu"
+ },
+ {
+  "district_id": 222,
+  "state_id": 24,
+  "district_name": "Edu\/Moro\/Patigi"
+ },
+ {
+  "district_id": 223,
+  "state_id": 24,
+  "district_name": "Asa\/Ilorin West"
+ },
+ {
+  "district_id": 224,
+  "state_id": 24,
+  "district_name": "Offa\/Oyun\/Ifelodun"
+ },
+ {
+  "district_id": 225,
+  "state_id": 24,
+  "district_name": "Ilorin East\/Ilorin South"
+ },
+ {
+  "district_id": 226,
+  "state_id": 24,
+  "district_name": "Ekiti\/Isin\/Irepodun\/Oke-ero"
+ },
+ {
+  "district_id": 227,
+  "state_id": 24,
+  "district_name": "Baruten\/Kaiama"
+ },
+ {
+  "district_id": 228,
+  "state_id": 25,
+  "district_name": "Ikeja"
+ },
+ {
+  "district_id": 229,
+  "state_id": 25,
+  "district_name": "Ikorodu"
+ },
+ {
+  "district_id": 230,
+  "state_id": 25,
+  "district_name": "Mushin I"
+ },
+ {
+  "district_id": 231,
+  "state_id": 25,
+  "district_name": "Ifako-Ijaiye"
+ },
+ {
+  "district_id": 232,
+  "state_id": 25,
+  "district_name": "Lagos Mainland"
+ },
+ {
+  "district_id": 233,
+  "state_id": 25,
+  "district_name": "Oshodi-Isolo II"
+ },
+ {
+  "district_id": 234,
+  "state_id": 25,
+  "district_name": "Epe"
+ },
+ {
+  "district_id": 235,
+  "state_id": 25,
+  "district_name": "Agege"
+ },
+ {
+  "district_id": 236,
+  "state_id": 25,
+  "district_name": "Surulere I"
+ },
+ {
+  "district_id": 237,
+  "state_id": 25,
+  "district_name": "Eti-Osa"
+ },
+ {
+  "district_id": 238,
+  "state_id": 25,
+  "district_name": "Kosofe"
+ },
+ {
+  "district_id": 239,
+  "state_id": 25,
+  "district_name": "Ojo"
+ },
+ {
+  "district_id": 240,
+  "state_id": 25,
+  "district_name": "Alimosho"
+ },
+ {
+  "district_id": 241,
+  "state_id": 25,
+  "district_name": "Ibeju-Lekki"
+ },
+ {
+  "district_id": 242,
+  "state_id": 25,
+  "district_name": "Badagry"
+ },
+ {
+  "district_id": 243,
+  "state_id": 25,
+  "district_name": "Lagos Island I"
+ },
+ {
+  "district_id": 244,
+  "state_id": 25,
+  "district_name": "Ajeromi-Ifelodun"
+ },
+ {
+  "district_id": 245,
+  "state_id": 25,
+  "district_name": "Somolu"
+ },
+ {
+  "district_id": 246,
+  "state_id": 25,
+  "district_name": "Surulere II"
+ },
+ {
+  "district_id": 247,
+  "state_id": 25,
+  "district_name": "Amuwo Odofin"
+ },
+ {
+  "district_id": 248,
+  "state_id": 25,
+  "district_name": "Apapa"
+ },
+ {
+  "district_id": 249,
+  "state_id": 25,
+  "district_name": "Oshodi-Isolo I"
+ },
+ {
+  "district_id": 250,
+  "state_id": 25,
+  "district_name": "Mushin II"
+ },
+ {
+  "district_id": 251,
+  "state_id": 26,
+  "district_name": "Lafia\/Obi"
+ },
+ {
+  "district_id": 252,
+  "state_id": 26,
+  "district_name": "Karu\/Keffi\/Kokona"
+ },
+ {
+  "district_id": 253,
+  "state_id": 26,
+  "district_name": "Nasarawa\/Toto"
+ },
+ {
+  "district_id": 254,
+  "state_id": 26,
+  "district_name": "Akwanga\/Nasarawa Eggon\/Wamba"
+ },
+ {
+  "district_id": 255,
+  "state_id": 26,
+  "district_name": "Awe\/Doma\/Keana"
+ },
+ {
+  "district_id": 256,
+  "state_id": 27,
+  "district_name": "Magama\/Rijau"
+ },
+ {
+  "district_id": 257,
+  "state_id": 27,
+  "district_name": "Bida\/Gbako\/Katcha"
+ },
+ {
+  "district_id": 258,
+  "state_id": 27,
+  "district_name": "Agwara\/Borgu"
+ },
+ {
+  "district_id": 259,
+  "state_id": 27,
+  "district_name": "Lavun\/Mokwa\/Edati"
+ },
+ {
+  "district_id": 260,
+  "state_id": 27,
+  "district_name": "Kontagora\/Wushishi\/Mariga\/Mashe\/Gukgora"
+ },
+ {
+  "district_id": 261,
+  "state_id": 27,
+  "district_name": "Shiroro\/Rafi\/Munya"
+ },
+ {
+  "district_id": 262,
+  "state_id": 27,
+  "district_name": "Bosso\/Paikoro"
+ },
+ {
+  "district_id": 263,
+  "state_id": 27,
+  "district_name": "Gurara\/Suleja\/Tafa"
+ },
+ {
+  "district_id": 264,
+  "state_id": 27,
+  "district_name": "Agaie\/Lapai"
+ },
+ {
+  "district_id": 265,
+  "state_id": 27,
+  "district_name": "Chanchaga"
+ },
+ {
+  "district_id": 266,
+  "state_id": 28,
+  "district_name": "Abeokuta North\/Obafemi-Owode\/Odeda"
+ },
+ {
+  "district_id": 267,
+  "state_id": 28,
+  "district_name": "Egbado South\/Ipokia"
+ },
+ {
+  "district_id": 268,
+  "state_id": 28,
+  "district_name": "Abeokuta South"
+ },
+ {
+  "district_id": 269,
+  "state_id": 28,
+  "district_name": "Ijebu North\/Ijebu East\/Ogun Waterside"
+ },
+ {
+  "district_id": 270,
+  "state_id": 28,
+  "district_name": "Ado-Odo\/Ota"
+ },
+ {
+  "district_id": 271,
+  "state_id": 28,
+  "district_name": "Ikenne\/Shagamu\/Remo North"
+ },
+ {
+  "district_id": 272,
+  "state_id": 28,
+  "district_name": "Ijebu Ode\/Odogbolu\/Ijebu North East"
+ },
+ {
+  "district_id": 273,
+  "state_id": 28,
+  "district_name": "Ifo\/Ewekoro"
+ },
+ {
+  "district_id": 274,
+  "state_id": 28,
+  "district_name": "Imeko Afon\/Egbado North"
+ },
+ {
+  "district_id": 275,
+  "state_id": 29,
+  "district_name": "Akure North\/Akure South"
+ },
+ {
+  "district_id": 276,
+  "state_id": 29,
+  "district_name": "Owo\/Ose"
+ },
+ {
+  "district_id": 277,
+  "state_id": 29,
+  "district_name": "Ondo East\/Ondo West"
+ },
+ {
+  "district_id": 278,
+  "state_id": 29,
+  "district_name": "Akoko South East\/Akoko South West"
+ },
+ {
+  "district_id": 279,
+  "state_id": 29,
+  "district_name": "Akoko North East\/Akoko North West"
+ },
+ {
+  "district_id": 280,
+  "state_id": 29,
+  "district_name": "Okitipupa\/Irele"
+ },
+ {
+  "district_id": 281,
+  "state_id": 29,
+  "district_name": "Ileoluji-Okeigbo\/Odigbo"
+ },
+ {
+  "district_id": 282,
+  "state_id": 29,
+  "district_name": "Idanre\/Ifedore"
+ },
+ {
+  "district_id": 283,
+  "state_id": 29,
+  "district_name": "Eseodo\/Ilaje"
+ },
+ {
+  "district_id": 285,
+  "state_id": 30,
+  "district_name": "Ede North\/Ede South\/Egbedore\/Ejigbo"
+ },
+ {
+  "district_id": 286,
+  "state_id": 30,
+  "district_name": "Boluwaduro\/Ifedayo\/Illa"
+ },
+ {
+  "district_id": 287,
+  "state_id": 30,
+  "district_name": "Ayedaade\/Irewole\/Isokan"
+ },
+ {
+  "district_id": 288,
+  "state_id": 30,
+  "district_name": "Ayedire\/Iwo\/Ola-Oluwa"
+ },
+ {
+  "district_id": 289,
+  "state_id": 30,
+  "district_name": "Ife Federal Constituency"
+ },
+ {
+  "district_id": 290,
+  "state_id": 30,
+  "district_name": "Ife Central\/Ife East\/Ife North\/Ife South"
+ },
+ {
+  "district_id": 291,
+  "state_id": 30,
+  "district_name": "Odo-Otin\/Ifelodun\/Boripe"
+ },
+ {
+  "district_id": 292,
+  "state_id": 30,
+  "district_name": "Atakunmosa East\/Atakunmosa West\/Ilesha East\/Ilesha West"
+ },
+ {
+  "district_id": 293,
+  "state_id": 30,
+  "district_name": "Irepodun\/Olorunda\/Osogbo\/Orolu"
+ },
+ {
+  "district_id": 294,
+  "state_id": 30,
+  "district_name": "Obokun\/Oriade"
+ },
+ {
+  "district_id": 295,
+  "state_id": 31,
+  "district_name": "Afijio\/Atiba\/Oyo East\/Oyo West"
+ },
+ {
+  "district_id": 296,
+  "state_id": 31,
+  "district_name": "Atigbo\/Saki East\/Saki West"
+ },
+ {
+  "district_id": 297,
+  "state_id": 31,
+  "district_name": "Ibadan North-East\/Ibadan South-East"
+ },
+ {
+  "district_id": 298,
+  "state_id": 31,
+  "district_name": "Ibadan North"
+ },
+ {
+  "district_id": 299,
+  "state_id": 31,
+  "district_name": "Ona-Ara\/Egbeda"
+ },
+ {
+  "district_id": 300,
+  "state_id": 31,
+  "district_name": "Iseyin\/Kajola\/Iwajowa\/Itesiwaju"
+ },
+ {
+  "district_id": 301,
+  "state_id": 31,
+  "district_name": "Lagelu\/Akinyele"
+ },
+ {
+  "district_id": 302,
+  "state_id": 31,
+  "district_name": "Ibarapa East\/Ido"
+ },
+ {
+  "district_id": 303,
+  "state_id": 31,
+  "district_name": "Oluyole"
+ },
+ {
+  "district_id": 304,
+  "state_id": 31,
+  "district_name": "Ibadan North West\/Ibadan South West"
+ },
+ {
+  "district_id": 305,
+  "state_id": 31,
+  "district_name": "Ibarapa Central\/Ibarapa North"
+ },
+ {
+  "district_id": 306,
+  "state_id": 31,
+  "district_name": "Ogo-Oluwa\/Surulere\/Oluyole"
+ },
+ {
+  "district_id": 307,
+  "state_id": 31,
+  "district_name": "Ogbomosho North\/Ogbomosho South\/Orire"
+ },
+ {
+  "district_id": 308,
+  "state_id": 31,
+  "district_name": "Irepo\/Olorunsogo\/Orelope"
+ },
+ {
+  "district_id": 309,
+  "state_id": 32,
+  "district_name": "Pankshin\/Kanke\/Kanam"
+ },
+ {
+  "district_id": 310,
+  "state_id": 32,
+  "district_name": "Bassa\/Jos North"
+ },
+ {
+  "district_id": 311,
+  "state_id": 32,
+  "district_name": "Mikang\/Qua'an Pan\/Shendam"
+ },
+ {
+  "district_id": 312,
+  "state_id": 32,
+  "district_name": "Jos South\/Jos East"
+ },
+ {
+  "district_id": 313,
+  "state_id": 32,
+  "district_name": "Langtang North\/Langtang South"
+ },
+ {
+  "district_id": 314,
+  "state_id": 32,
+  "district_name": "Barkin Ladi\/Riyom"
+ },
+ {
+  "district_id": 315,
+  "state_id": 32,
+  "district_name": "Wase"
+ },
+ {
+  "district_id": 316,
+  "state_id": 32,
+  "district_name": "Mangu\/Bokkos"
+ },
+ {
+  "district_id": 317,
+  "state_id": 33,
+  "district_name": "Degema\/Bonny"
+ },
+ {
+  "district_id": 318,
+  "state_id": 33,
+  "district_name": "Okrika\/Ogu-Bolo"
+ },
+ {
+  "district_id": 319,
+  "state_id": 33,
+  "district_name": "Ikwerre\/Emohua"
+ },
+ {
+  "district_id": 320,
+  "state_id": 33,
+  "district_name": "Ahoada-West\/Ogba-Egbema-Ndoni"
+ },
+ {
+  "district_id": 321,
+  "state_id": 33,
+  "district_name": "Port Harcourt I"
+ },
+ {
+  "district_id": 322,
+  "state_id": 33,
+  "district_name": "Akuku-Toru\/Asari-Toru"
+ },
+ {
+  "district_id": 323,
+  "state_id": 33,
+  "district_name": "Khana\/Gokana"
+ },
+ {
+  "district_id": 324,
+  "state_id": 33,
+  "district_name": "Etche\/Omuma"
+ },
+ {
+  "district_id": 325,
+  "state_id": 33,
+  "district_name": "Tai\/Eleme\/Oyigbo"
+ },
+ {
+  "district_id": 326,
+  "state_id": 33,
+  "district_name": "Abua\/Odual\/Ahoada East"
+ },
+ {
+  "district_id": 327,
+  "state_id": 33,
+  "district_name": "Obio\/Akpor"
+ },
+ {
+  "district_id": 328,
+  "state_id": 33,
+  "district_name": "Port Harcourt II"
+ },
+ {
+  "district_id": 329,
+  "state_id": 33,
+  "district_name": "Andoni\/Opobo\/Nkoro"
+ },
+ {
+  "district_id": 330,
+  "state_id": 34,
+  "district_name": "Sokoto North\/Sokoto South"
+ },
+ {
+  "district_id": 331,
+  "state_id": 34,
+  "district_name": "Binji\/Silame"
+ },
+ {
+  "district_id": 332,
+  "state_id": 34,
+  "district_name": "Wurno\/Rabah"
+ },
+ {
+  "district_id": 333,
+  "state_id": 34,
+  "district_name": "Sabon-Birni\/Isa"
+ },
+ {
+  "district_id": 334,
+  "state_id": 34,
+  "district_name": "Gwadabawa\/Ilella"
+ },
+ {
+  "district_id": 335,
+  "state_id": 34,
+  "district_name": "Kware\/Wamakko"
+ },
+ {
+  "district_id": 336,
+  "state_id": 34,
+  "district_name": "Gudu\/Tangaza"
+ },
+ {
+  "district_id": 337,
+  "state_id": 34,
+  "district_name": "Kebbe\/Tambuwal"
+ },
+ {
+  "district_id": 338,
+  "state_id": 34,
+  "district_name": "Goronyo\/Gada"
+ },
+ {
+  "district_id": 339,
+  "state_id": 34,
+  "district_name": "Bodinga\/Dange-Shuni\/Tureta"
+ },
+ {
+  "district_id": 340,
+  "state_id": 34,
+  "district_name": "Shagari\/Yabo"
+ },
+ {
+  "district_id": 341,
+  "state_id": 35,
+  "district_name": "Donga\/Ussa\/Takum\/Special Area"
+ },
+ {
+  "district_id": 342,
+  "state_id": 35,
+  "district_name": "Gashaka\/Kurmi\/Sardauna"
+ },
+ {
+  "district_id": 343,
+  "state_id": 35,
+  "district_name": "Jalingo\/Yorro\/Zing"
+ },
+ {
+  "district_id": 344,
+  "state_id": 35,
+  "district_name": "Ibi\/Wukari"
+ },
+ {
+  "district_id": 345,
+  "state_id": 35,
+  "district_name": "Lau\/Karim-Lamido\/Ardo-Kola"
+ },
+ {
+  "district_id": 346,
+  "state_id": 35,
+  "district_name": "Bali\/Gassol"
+ },
+ {
+  "district_id": 347,
+  "state_id": 36,
+  "district_name": "Machina\/Nguru\/Karasuwa\/Yusufari"
+ },
+ {
+  "district_id": 348,
+  "state_id": 36,
+  "district_name": "Fika\/Fune"
+ },
+ {
+  "district_id": 349,
+  "state_id": 36,
+  "district_name": "Bursari\/Geidam\/Yunusari"
+ },
+ {
+  "district_id": 350,
+  "state_id": 36,
+  "district_name": "Damaturu\/Gujba\/Gulani\/Tarmuwa"
+ },
+ {
+  "district_id": 351,
+  "state_id": 36,
+  "district_name": "Nangere\/Potiskum"
+ },
+ {
+  "district_id": 352,
+  "state_id": 36,
+  "district_name": "Bade\/Jakusko"
+ },
+ {
+  "district_id": 353,
+  "state_id": 37,
+  "district_name": "Anka\/Talata Marafa"
+ },
+ {
+  "district_id": 354,
+  "state_id": 37,
+  "district_name": "Bungudu\/Maru"
+ },
+ {
+  "district_id": 355,
+  "state_id": 37,
+  "district_name": "Shinkafi\/Zurmi"
+ },
+ {
+  "district_id": 356,
+  "state_id": 37,
+  "district_name": "Bakura\/Maradun"
+ },
+ {
+  "district_id": 357,
+  "state_id": 37,
+  "district_name": "Kaura-Namoda\/Birnin-Magaji"
+ },
+ {
+  "district_id": 358,
+  "state_id": 37,
+  "district_name": "Gusau\/Tsafe"
+ },
+ {
+  "district_id": 359,
+  "state_id": 37,
+  "district_name": "Gummi\/Bukkuyum"
+ },
+ {
+  "district_id": 512,
+  "state_id": 18,
+  "district_name": "Miga\/Jahun"
+ },
+ {
+  "district_id": 513,
+  "state_id": 5,
+  "district_name": "Alkaleri\/Kirfi"
+ },
+ {
+  "district_id": 514,
+  "state_id": 14,
+  "district_name": "Udenu\/Igboeze North"
+ },
+ {
+  "district_id": 515,
+  "state_id": 21,
+  "district_name": "Katsina Central"
+ }
+],
+"senatorial_district_tbl":[
+ {
+  "district_id": 1,
+  "state_id": 15,
+  "district_name": "Abuja"
+ },
+ {
+  "district_id": 2,
+  "state_id": 1,
+  "district_name": "Abia Central"
+ },
+ {
+  "district_id": 3,
+  "state_id": 1,
+  "district_name": "Abia South"
+ },
+ {
+  "district_id": 4,
+  "state_id": 1,
+  "district_name": "Abia North"
+ },
+ {
+  "district_id": 5,
+  "state_id": 2,
+  "district_name": "Adamawa North"
+ },
+ {
+  "district_id": 6,
+  "state_id": 2,
+  "district_name": "Adamawa Central"
+ },
+ {
+  "district_id": 7,
+  "state_id": 2,
+  "district_name": "Adamawa South"
+ },
+ {
+  "district_id": 8,
+  "state_id": 3,
+  "district_name": "Akwa Ibom North-East"
+ },
+ {
+  "district_id": 9,
+  "state_id": 3,
+  "district_name": "Akwa Ibom North-West"
+ },
+ {
+  "district_id": 10,
+  "state_id": 3,
+  "district_name": "Akwa Ibom South"
+ },
+ {
+  "district_id": 11,
+  "state_id": 4,
+  "district_name": "Anambra Central"
+ },
+ {
+  "district_id": 12,
+  "state_id": 4,
+  "district_name": "Anambra South"
+ },
+ {
+  "district_id": 13,
+  "state_id": 4,
+  "district_name": "Anambra North"
+ },
+ {
+  "district_id": 14,
+  "state_id": 5,
+  "district_name": "Bauchi South"
+ },
+ {
+  "district_id": 15,
+  "state_id": 5,
+  "district_name": "Bauchi Central"
+ },
+ {
+  "district_id": 16,
+  "state_id": 5,
+  "district_name": "Bauchi North"
+ },
+ {
+  "district_id": 17,
+  "state_id": 6,
+  "district_name": "Bayelsa Central"
+ },
+ {
+  "district_id": 18,
+  "state_id": 6,
+  "district_name": "Bayelsa East"
+ },
+ {
+  "district_id": 19,
+  "state_id": 6,
+  "district_name": "Bayelsa West"
+ },
+ {
+  "district_id": 20,
+  "state_id": 7,
+  "district_name": "Benue South"
+ },
+ {
+  "district_id": 21,
+  "state_id": 7,
+  "district_name": "Benue North-East"
+ },
+ {
+  "district_id": 22,
+  "state_id": 7,
+  "district_name": "Benue North-West"
+ },
+ {
+  "district_id": 23,
+  "state_id": 8,
+  "district_name": "Borno Central"
+ },
+ {
+  "district_id": 24,
+  "state_id": 8,
+  "district_name": "Borno North"
+ },
+ {
+  "district_id": 25,
+  "state_id": 8,
+  "district_name": "Borno South"
+ },
+ {
+  "district_id": 26,
+  "state_id": 8,
+  "district_name": "Cross River North"
+ },
+ {
+  "district_id": 27,
+  "state_id": 8,
+  "district_name": "Cross River South"
+ },
+ {
+  "district_id": 28,
+  "state_id": 8,
+  "district_name": "Cross River Central"
+ },
+ {
+  "district_id": 29,
+  "state_id": 10,
+  "district_name": "Delta Central"
+ },
+ {
+  "district_id": 30,
+  "state_id": 10,
+  "district_name": "Delta South"
+ },
+ {
+  "district_id": 31,
+  "state_id": 10,
+  "district_name": "Delta North"
+ },
+ {
+  "district_id": 32,
+  "state_id": 11,
+  "district_name": "Ebonyi North"
+ },
+ {
+  "district_id": 33,
+  "state_id": 11,
+  "district_name": "Ebonyi South"
+ },
+ {
+  "district_id": 34,
+  "state_id": 11,
+  "district_name": "Ebonyi Central"
+ },
+ {
+  "district_id": 35,
+  "state_id": 12,
+  "district_name": "Edo Central"
+ },
+ {
+  "district_id": 36,
+  "state_id": 12,
+  "district_name": "Edo South"
+ },
+ {
+  "district_id": 37,
+  "state_id": 12,
+  "district_name": "Edo North"
+ },
+ {
+  "district_id": 38,
+  "state_id": 13,
+  "district_name": "Ekiti North"
+ },
+ {
+  "district_id": 39,
+  "state_id": 13,
+  "district_name": "Ekiti South"
+ },
+ {
+  "district_id": 40,
+  "state_id": 13,
+  "district_name": "Ekiti Central"
+ },
+ {
+  "district_id": 41,
+  "state_id": 14,
+  "district_name": "Enugu North"
+ },
+ {
+  "district_id": 42,
+  "state_id": 14,
+  "district_name": "Enugu East"
+ },
+ {
+  "district_id": 43,
+  "state_id": 14,
+  "district_name": "Enugu West"
+ },
+ {
+  "district_id": 44,
+  "state_id": 16,
+  "district_name": "Gombe Central"
+ },
+ {
+  "district_id": 45,
+  "state_id": 16,
+  "district_name": "Gombe North"
+ },
+ {
+  "district_id": 46,
+  "state_id": 16,
+  "district_name": "Gombe South"
+ },
+ {
+  "district_id": 47,
+  "state_id": 17,
+  "district_name": "Imo North"
+ },
+ {
+  "district_id": 48,
+  "state_id": 17,
+  "district_name": "Imo East"
+ },
+ {
+  "district_id": 49,
+  "state_id": 17,
+  "district_name": "Imo West"
+ },
+ {
+  "district_id": 50,
+  "state_id": 18,
+  "district_name": "Jigawa North-East"
+ },
+ {
+  "district_id": 51,
+  "state_id": 18,
+  "district_name": "Jigawa North-West"
+ },
+ {
+  "district_id": 52,
+  "state_id": 18,
+  "district_name": "Jigawa South-West"
+ },
+ {
+  "district_id": 53,
+  "state_id": 19,
+  "district_name": "Kaduna Central"
+ },
+ {
+  "district_id": 54,
+  "state_id": 19,
+  "district_name": "Kaduna North"
+ },
+ {
+  "district_id": 55,
+  "state_id": 19,
+  "district_name": "Kaduna South"
+ },
+ {
+  "district_id": 56,
+  "state_id": 20,
+  "district_name": "Kano South"
+ },
+ {
+  "district_id": 57,
+  "state_id": 20,
+  "district_name": "Kano North"
+ },
+ {
+  "district_id": 58,
+  "state_id": 20,
+  "district_name": "Kano Central"
+ },
+ {
+  "district_id": 59,
+  "state_id": 21,
+  "district_name": "Katsina South"
+ },
+ {
+  "district_id": 60,
+  "state_id": 21,
+  "district_name": "Katsina Central"
+ },
+ {
+  "district_id": 61,
+  "state_id": 21,
+  "district_name": "Katsina North"
+ },
+ {
+  "district_id": 62,
+  "state_id": 22,
+  "district_name": "Kebbi Central"
+ },
+ {
+  "district_id": 63,
+  "state_id": 22,
+  "district_name": "Kebbi South"
+ },
+ {
+  "district_id": 64,
+  "state_id": 22,
+  "district_name": "Kebbi North"
+ },
+ {
+  "district_id": 65,
+  "state_id": 23,
+  "district_name": "Kogi Central"
+ },
+ {
+  "district_id": 66,
+  "state_id": 23,
+  "district_name": "Kogi East"
+ },
+ {
+  "district_id": 67,
+  "state_id": 23,
+  "district_name": "Kogi West"
+ },
+ {
+  "district_id": 68,
+  "state_id": 24,
+  "district_name": "Kwara Central"
+ },
+ {
+  "district_id": 69,
+  "state_id": 24,
+  "district_name": "Kwara South"
+ },
+ {
+  "district_id": 70,
+  "state_id": 24,
+  "district_name": "Kwara North"
+ },
+ {
+  "district_id": 71,
+  "state_id": 25,
+  "district_name": "Lagos Central"
+ },
+ {
+  "district_id": 72,
+  "state_id": 25,
+  "district_name": "Lagos East"
+ },
+ {
+  "district_id": 73,
+  "state_id": 25,
+  "district_name": "Lagos West"
+ },
+ {
+  "district_id": 74,
+  "state_id": 26,
+  "district_name": "Nasarawa West"
+ },
+ {
+  "district_id": 75,
+  "state_id": 26,
+  "district_name": "Nasarawa North"
+ },
+ {
+  "district_id": 76,
+  "state_id": 26,
+  "district_name": "Nasarawa South"
+ },
+ {
+  "district_id": 77,
+  "state_id": 27,
+  "district_name": "Niger East"
+ },
+ {
+  "district_id": 78,
+  "state_id": 27,
+  "district_name": "Niger North"
+ },
+ {
+  "district_id": 79,
+  "state_id": 27,
+  "district_name": "Niger South"
+ },
+ {
+  "district_id": 80,
+  "state_id": 28,
+  "district_name": "Ogun Central"
+ },
+ {
+  "district_id": 81,
+  "state_id": 28,
+  "district_name": "Ogun East"
+ },
+ {
+  "district_id": 82,
+  "state_id": 28,
+  "district_name": "Ogun West"
+ },
+ {
+  "district_id": 83,
+  "state_id": 29,
+  "district_name": "Ondo North"
+ },
+ {
+  "district_id": 84,
+  "state_id": 29,
+  "district_name": "Ondo Central"
+ },
+ {
+  "district_id": 85,
+  "state_id": 29,
+  "district_name": "Ondo South"
+ },
+ {
+  "district_id": 86,
+  "state_id": 30,
+  "district_name": "Osun Central"
+ },
+ {
+  "district_id": 87,
+  "state_id": 30,
+  "district_name": "Osun East"
+ },
+ {
+  "district_id": 88,
+  "state_id": 30,
+  "district_name": "Osun West"
+ },
+ {
+  "district_id": 89,
+  "state_id": 31,
+  "district_name": "Oyo Central"
+ },
+ {
+  "district_id": 90,
+  "state_id": 31,
+  "district_name": "Oyo North"
+ },
+ {
+  "district_id": 91,
+  "state_id": 31,
+  "district_name": "Oyo South"
+ },
+ {
+  "district_id": 92,
+  "state_id": 32,
+  "district_name": "Plateau South"
+ },
+ {
+  "district_id": 93,
+  "state_id": 32,
+  "district_name": "Plateau Central"
+ },
+ {
+  "district_id": 94,
+  "state_id": 32,
+  "district_name": "Plateau North"
+ },
+ {
+  "district_id": 95,
+  "state_id": 33,
+  "district_name": "Rivers East"
+ },
+ {
+  "district_id": 96,
+  "state_id": 33,
+  "district_name": "Rivers West"
+ },
+ {
+  "district_id": 97,
+  "state_id": 33,
+  "district_name": "Rivers South-East"
+ },
+ {
+  "district_id": 98,
+  "state_id": 34,
+  "district_name": "Sokoto North"
+ },
+ {
+  "district_id": 99,
+  "state_id": 34,
+  "district_name": "Sokoto East"
+ },
+ {
+  "district_id": 100,
+  "state_id": 34,
+  "district_name": "Sokoto South"
+ },
+ {
+  "district_id": 101,
+  "state_id": 35,
+  "district_name": "Taraba North"
+ },
+ {
+  "district_id": 102,
+  "state_id": 35,
+  "district_name": "Taraba Central"
+ },
+ {
+  "district_id": 103,
+  "state_id": 35,
+  "district_name": "Taraba South"
+ },
+ {
+  "district_id": 104,
+  "state_id": 36,
+  "district_name": "Yobe North"
+ },
+ {
+  "district_id": 105,
+  "state_id": 36,
+  "district_name": "Yobe South"
+ },
+ {
+  "district_id": 106,
+  "state_id": 36,
+  "district_name": "Yobe East"
+ },
+ {
+  "district_id": 107,
+  "state_id": 37,
+  "district_name": "Zamfara West"
+ },
+ {
+  "district_id": 108,
+  "state_id": 37,
+  "district_name": "Zamfara Central"
+ },
+ {
+  "district_id": 109,
+  "state_id": 37,
+  "district_name": "Zamfara North"
+ }
+],
+"state_tbl":[
+ {
+  "state_id": 1,
+  "state_name": "Abia"
+ },
+ {
+  "state_id": 2,
+  "state_name": "Adamawa"
+ },
+ {
+  "state_id": 3,
+  "state_name": "Akwa Ibom"
+ },
+ {
+  "state_id": 4,
+  "state_name": "Anambra"
+ },
+ {
+  "state_id": 5,
+  "state_name": "Bauchi"
+ },
+ {
+  "state_id": 6,
+  "state_name": "Bayelsa"
+ },
+ {
+  "state_id": 7,
+  "state_name": "Benue"
+ },
+ {
+  "state_id": 8,
+  "state_name": "Borno"
+ },
+ {
+  "state_id": 9,
+  "state_name": "Cross River"
+ },
+ {
+  "state_id": 10,
+  "state_name": "Delta"
+ },
+ {
+  "state_id": 11,
+  "state_name": "Ebonyi"
+ },
+ {
+  "state_id": 12,
+  "state_name": "Edo"
+ },
+ {
+  "state_id": 13,
+  "state_name": "Ekiti"
+ },
+ {
+  "state_id": 14,
+  "state_name": "Enugu"
+ },
+ {
+  "state_id": 15,
+  "state_name": "Federal Capital Territory"
+ },
+ {
+  "state_id": 16,
+  "state_name": "Gombe"
+ },
+ {
+  "state_id": 17,
+  "state_name": "Imo"
+ },
+ {
+  "state_id": 18,
+  "state_name": "Jigawa"
+ },
+ {
+  "state_id": 19,
+  "state_name": "Kaduna"
+ },
+ {
+  "state_id": 20,
+  "state_name": "Kano"
+ },
+ {
+  "state_id": 21,
+  "state_name": "Katsina"
+ },
+ {
+  "state_id": 22,
+  "state_name": "Kebbi"
+ },
+ {
+  "state_id": 23,
+  "state_name": "Kogi"
+ },
+ {
+  "state_id": 24,
+  "state_name": "Kwara"
+ },
+ {
+  "state_id": 25,
+  "state_name": "Lagos"
+ },
+ {
+  "state_id": 26,
+  "state_name": "Nasarawa"
+ },
+ {
+  "state_id": 27,
+  "state_name": "Niger"
+ },
+ {
+  "state_id": 28,
+  "state_name": "Ogun"
+ },
+ {
+  "state_id": 29,
+  "state_name": "Ondo"
+ },
+ {
+  "state_id": 30,
+  "state_name": "Osun"
+ },
+ {
+  "state_id": 31,
+  "state_name": "Oyo"
+ },
+ {
+  "state_id": 32,
+  "state_name": "Plateau"
+ },
+ {
+  "state_id": 33,
+  "state_name": "Rivers"
+ },
+ {
+  "state_id": 34,
+  "state_name": "Sokoto"
+ },
+ {
+  "state_id": 35,
+  "state_name": "Taraba"
+ },
+ {
+  "state_id": 36,
+  "state_name": "Yobe"
+ },
+ {
+  "state_id": 37,
+  "state_name": "Zamfara"
+ }
+]
+}
