@@ -7,7 +7,7 @@ const multer = require('multer');
 
 const { Schema } = mongoose;
 //mongodb://18.232.124.147:27017/election-monitoring-db-exp
-mongoose.connect('mongodb://127.0.0.1/election', {
+mongoose.connect('mongodb+srv://afrirewards:Afri12345Rewards@afrirewards.da6lul0.mongodb.net/', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(e=>{
